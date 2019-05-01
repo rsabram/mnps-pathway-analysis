@@ -257,3 +257,92 @@ test_group_change %>%
   theme(axis.text.y = element_text(face = c('plain', 'plain', 'plain', 'plain', 'plain', 
                                             'plain', 'plain', 'plain', 'plain', 'plain',
                                             'plain', 'plain', 'plain', 'bold'))) 
+
+membership_1617 <- read_csv('./data/membership_school_2016-17.csv')
+colnames(membership_1617) <- c('district_id', 'district','school_id','school_name','grade','race','gender','enrollment')
+colnames(membership_1718) <- c('district_id', 'district','school_id','school_name','grade','race','gender','enrollment')
+
+mnps_1617 <- membership_1617 %>% 
+  filter(district_id == 190 & race == 'All Race/Ethnic Groups' & gender == 'All Genders' & grade != 'All Grades') %>% 
+  select(school_id, school_name, grade, enrollment) %>% 
+  mutate(year = 2017) %>% 
+  mutate(grade = case_when(
+    grade == 'PK' ~ -1,
+    grade == 'KG' ~ 0,
+    grade == '1' ~ 1,
+    grade == '2' ~ 2,
+    grade == '3' ~ 3,
+    grade == '4' ~ 4,
+    grade == '5' ~ 5,
+    grade == '6' ~ 6,
+    grade == '7' ~ 7,
+    grade == '8' ~ 8,
+    grade == '9' ~ 9,
+    grade == '10' ~ 10,
+    grade == '11' ~ 11,
+    grade == '12' ~ 12,
+  )) %>% 
+  mutate(next_grade = grade + 1)
+
+mnps_1718 <- membership_1718 %>% 
+  filter(district_id == 190 & race == 'All Race/Ethnic Groups' & gender == 'All Genders' & grade != 'All Grades') %>% 
+  select(school_id, school_name, grade, enrollment) %>% 
+  mutate(year = 2018) %>% 
+  mutate(grade = case_when(
+    grade == 'PK' ~ -1,
+    grade == 'K' ~ 0,
+    grade == '1' ~ 1,
+    grade == '2' ~ 2,
+    grade == '3' ~ 3,
+    grade == '4' ~ 4,
+    grade == '5' ~ 5,
+    grade == '6' ~ 6,
+    grade == '7' ~ 7,
+    grade == '8' ~ 8,
+    grade == '9' ~ 9,
+    grade == '10' ~ 10,
+    grade == '11' ~ 11,
+    grade == '12' ~ 12,
+  )) %>% 
+  mutate(next_grade = grade)
+
+mnps_both_years <- merge(mnps_1617, mnps_1718, by=c('school_id', 'next_grade')) %>% 
+  select(school_id, school_name.x, grade.x, enrollment.x, grade.y, enrollment.y)
+
+colnames(mnps_both_years) <- c('school_id','school_name','grade_1617','enrollment_1617','grade_1718','enrollment_1718')
+
+#drop pre-k (optional) and add a column for value changes
+
+mnps_both_years <- mnps_both_years %>% 
+  mutate(change = enrollment_1718 - enrollment_1617) %>% 
+  filter(grade_1617 != -1)
+
+only_clusters <- clusters %>% 
+  select(SCHOOL_NO, cluster)
+
+only_clusters$SCHOOL_NO <- as.numeric(only_clusters$SCHOOL_NO)
+
+mnps_both_years_cluster <- left_join(mnps_both_years, only_clusters, by = c("school_id" = "SCHOOL_NO"))
+
+zoned_mnps <- mnps_both_years_cluster %>% 
+  filter(cluster != 'Non-Zoned' | cluster != NaN)
+
+non_zoned_mnps <- mnps_both_years_cluster %>% 
+  filter(cluster == 'Non-Zoned' | cluster == NaN)
+
+mnps_both_years_cluster$cluster[is.na(mnps_both_years_cluster$cluster)] <- 'Non-Zoned'
+
+grade_levels <- mnps_both_years_cluster %>% 
+  filter(cluster != 'Non-Zoned') %>% 
+  group_by(grade_1617) %>% 
+  summarise(
+    sum(change),
+    mean(change),
+    median(change)
+  )
+
+## need to fix 4th and 8th grade to account for pathways
+## oy
+
+  
+  

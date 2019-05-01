@@ -127,7 +127,9 @@ boxplot(boxes, horizontal = TRUE, main = "Comparing Score Distribution",
 ggplot(data = boxes, aes(x = "", y = boxes)) + 
   geom_boxplot() 
 
-ela_ms# analyze
+ela_ms
+
+# analyze
 averages <- scored_pathways %>% 
   group_by(cluster) %>% 
   summarise(
@@ -153,7 +155,7 @@ averages <- scored_pathways %>%
     median(math_ms_to_hs),
   )
 
-colnames(averages) <- c(
+colnames(averages) <- c('cluster',
   'mean_ela_elem',
   'mean_ela_ms',
   'mean_ela_hs',
@@ -176,6 +178,77 @@ colnames(averages) <- c(
   'median_math_ms_to_hs'
 ) 
 
-mnps_tvaas_2018 <- tvaas_2018 %>% 
-  filter('District Number' == 190) 
+reshape_medians <- gather(averages, outcome, value, median_ela_elem:median_ela_hs) %>% 
+  select(cluster, outcome, value) %>% 
+  filter(cluster != 'Stratford') %>% 
+  mutate(outcome = factor(outcome, levels = c("median_ela_elem", "median_ela_ms","median_ela_hs")))
+
+reshape_medians_math <- gather(averages, outcome, value, median_math_elem:median_math_hs) %>% 
+  select(cluster, outcome, value) %>% 
+  filter(cluster != 'Stratford') %>% 
+  mutate(outcome = factor(outcome, levels = c("median_math_elem", "median_math_ms","median_math_hs")))
+
+
+reshape_change_ela <- gather(averages, outcome, value, median_ela_elem_to_ms:median_ela_ms_to_hs) %>% 
+  select(cluster, outcome, value) %>% 
+  filter(cluster != 'Stratford') %>% 
+  mutate(outcome = factor(outcome, levels = c("median_ela_elem_to_ms", "median_ela_ms_to_hs")))
+
+reshape_change_math <- gather(averages, outcome, value, median_math_elem_to_ms:median_math_ms_to_hs) %>% 
+  select(cluster, outcome, value) %>% 
+  filter(cluster != 'Stratford') %>% 
+  mutate(outcome = factor(outcome, levels = c("median_math_elem_to_ms", "median_math_ms_to_hs")))
+
+
+reshape_medians %>% 
+  ggplot(
+  aes(x = cluster, y = value, group = outcome, fill = outcome)
+) +
+  geom_bar(
+    stat = "identity",
+    position = position_dodge()
+  ) +
+  labs(x = 'Cluster', y = '% of Students on Track or Mastered', title = 'Median ELA Student Mastery by Cluster') +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1)) +
+  scale_fill_brewer(name = 'School Type', palette = "Set1", labels = c("Elementary School", "Middle School", "High School")) +
+  ylim(0, 100)
+
+reshape_medians_math %>% 
+  ggplot(
+    aes(x = cluster, y = value, group = outcome, fill = outcome)
+  ) +
+  geom_bar(
+    stat = "identity",
+    position = position_dodge()
+  ) +
+  labs(x = 'Cluster', y = '% of Students on Track or Mastered', title = 'Median Math Student Mastery by Cluster') +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1)) +
+  scale_fill_brewer(name = 'School Type', palette = "Set2", labels = c("Elementary School", "Middle School", "High School")) +
+  ylim(0, 100)
+
+
+reshape_change_ela %>% 
+  ggplot(
+    aes(x = cluster, y = value, group = outcome, fill = outcome)
+  ) +
+  geom_bar(
+    stat = "identity",
+    position = position_dodge()
+  ) +
+  labs(x = 'Cluster', y = '% Change in ELA On Track or Masterd', title = 'Median ELA Student Mastery Change by Cluster') +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1)) +
+  scale_fill_brewer(name = 'Change Type', palette = "Set1", labels = c("Elementary to Middle", "Middle to High"))
+
+
+reshape_change_math %>% 
+  ggplot(
+    aes(x = cluster, y = value, group = outcome, fill = outcome)
+  ) +
+  geom_bar(
+    stat = "identity",
+    position = position_dodge()
+  ) +
+  labs(x = 'Cluster', y = '% Change in Math On Track or Masterd', title = 'Median Math Student Mastery Change by Cluster') +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1)) +
+  scale_fill_brewer(name = 'Change Type', palette = "Set2", labels = c("Elementary to Middle", "Middle to High"))
 
