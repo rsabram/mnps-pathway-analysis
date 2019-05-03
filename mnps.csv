@@ -1,0 +1,1909 @@
+district_id,district,school_id,school_name,grade,race,gender,enrollment
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,Asian,M,36
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,Asian,F,38
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,Black or African American,M,128
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,Black or African American,F,146
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,Hispanic,M,95
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,Hispanic,F,113
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,Native Hawaiian or Pacific Islander,M,2
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,White,M,105
+190,Metro Nashville Public Schools,1,A. Z. Kelley Elementary,All Grades,White,F,101
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,Black or African American,M,4
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,Black or African American,F,10
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,Hispanic,M,2
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,Hispanic,F,4
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,White,M,34
+190,Metro Nashville Public Schools,3,MNPS Virtual School,All Grades,White,F,44
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,Black or African American,M,116
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,Black or African American,F,101
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,Hispanic,M,12
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,Hispanic,F,21
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,White,M,7
+190,Metro Nashville Public Schools,5,Alex Green Elementary,All Grades,White,F,8
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,Black or African American,M,104
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,Black or African American,F,103
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,Hispanic,M,101
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,Hispanic,F,84
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,White,M,47
+190,Metro Nashville Public Schools,10,Amqui Elementary,All Grades,White,F,37
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,Asian,M,6
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,Asian,F,14
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,Black or African American,M,75
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,Black or African American,F,73
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,Hispanic,M,24
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,Hispanic,F,33
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,Native Hawaiian or Pacific Islander,M,2
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,White,M,137
+190,Metro Nashville Public Schools,15,Andrew Jackson Elementary,All Grades,White,F,133
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,Asian,M,38
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,Asian,F,30
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,Black or African American,M,385
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,Black or African American,F,348
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,Hispanic,M,404
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,Hispanic,F,344
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,Native Hawaiian or Pacific Islander,M,4
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,Native Hawaiian or Pacific Islander,F,3
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,White,M,288
+190,Metro Nashville Public Schools,20,Antioch High School,All Grades,White,F,201
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,Asian,M,37
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,Asian,F,32
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,Black or African American,M,131
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,Black or African American,F,119
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,Hispanic,M,173
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,Hispanic,F,164
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,White,M,57
+190,Metro Nashville Public Schools,23,Antioch Middle,All Grades,White,F,63
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,Asian,M,20
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,Asian,F,18
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,Black or African American,M,143
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,Black or African American,F,111
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,Hispanic,M,191
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,Hispanic,F,189
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,White,M,84
+190,Metro Nashville Public Schools,25,Apollo Middle,All Grades,White,F,73
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,Black or African American,M,148
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,Black or African American,F,143
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,Hispanic,M,13
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,Hispanic,F,9
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,White,M,9
+190,Metro Nashville Public Schools,35,Moses McKissack Middle,All Grades,White,F,8
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,Asian,M,15
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,Asian,F,20
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,Black or African American,M,110
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,Black or African American,F,100
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,Hispanic,M,31
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,Hispanic,F,33
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,White,M,167
+190,Metro Nashville Public Schools,40,Bellevue Middle,All Grades,White,F,155
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,Black or African American,M,132
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,Black or African American,F,135
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,Hispanic,M,12
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,Hispanic,F,12
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,White,M,13
+190,Metro Nashville Public Schools,45,Bellshire Elementary,All Grades,White,F,14
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,Black or African American,M,24
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,Black or African American,F,54
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,Hispanic,M,9
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,Hispanic,F,8
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,White,M,21
+190,Metro Nashville Public Schools,53,Nashville Big Picture High School,All Grades,White,F,22
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,Black or African American,M,112
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,Black or African American,F,120
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,Hispanic,M,5
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,Hispanic,F,5
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,White,M,6
+190,Metro Nashville Public Schools,70,Buena Vista Elementary,All Grades,White,F,2
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,Asian,M,77
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,Asian,F,62
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,Black or African American,M,390
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,Black or African American,F,340
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,Hispanic,M,322
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,Hispanic,F,306
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,Native Hawaiian or Pacific Islander,F,3
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,White,M,174
+190,Metro Nashville Public Schools,77,Cane Ridge High School,All Grades,White,F,164
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,Black or African American,M,125
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,Black or African American,F,93
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,Hispanic,M,3
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,Hispanic,F,8
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,White,M,2
+190,Metro Nashville Public Schools,80,Caldwell Elementary,All Grades,White,F,1
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,Asian,M,15
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,Asian,F,18
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,Black or African American,M,243
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,Black or African American,F,252
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,Hispanic,M,140
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,Hispanic,F,112
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,American Indian or Alaskan Native,M,3
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,American Indian or Alaskan Native,F,5
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,Native Hawaiian or Pacific Islander,F,2
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,White,M,114
+190,Metro Nashville Public Schools,82,Cane Ridge Elementary,All Grades,White,F,113
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,Asian,M,3
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,Black or African American,M,83
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,Black or African American,F,88
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,Hispanic,M,50
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,Hispanic,F,35
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,White,M,19
+190,Metro Nashville Public Schools,105,Chadwell Elementary,All Grades,White,F,21
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,Asian,M,24
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,Asian,F,13
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,Black or African American,M,39
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,Black or African American,F,41
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,Hispanic,M,96
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,Hispanic,F,89
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,White,M,50
+190,Metro Nashville Public Schools,110,Charlotte Park Elementary,All Grades,White,F,50
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,Asian,M,5
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,Black or African American,M,63
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,Black or African American,F,82
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,Hispanic,M,45
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,Hispanic,F,45
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,White,M,30
+190,Metro Nashville Public Schools,120,Cockrill Elementary,All Grades,White,F,29
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,Asian,M,33
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,Asian,F,35
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,Black or African American,M,40
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,Black or African American,F,36
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,Hispanic,M,229
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,Hispanic,F,223
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,White,M,61
+190,Metro Nashville Public Schools,130,Cole Elementary,All Grades,White,F,63
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,Asian,F,3
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,Black or African American,M,82
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,Black or African American,F,85
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,Hispanic,M,24
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,Hispanic,F,18
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,White,M,24
+190,Metro Nashville Public Schools,140,Hattie Cotton Elementary,All Grades,White,F,24
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,Asian,M,33
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,Asian,F,32
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,Black or African American,M,17
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,Black or African American,F,20
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,Hispanic,M,55
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,Hispanic,F,52
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,White,M,119
+190,Metro Nashville Public Schools,145,Crieve Hall Elementary,All Grades,White,F,114
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,Asian,M,7
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,Asian,F,13
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,Black or African American,M,67
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,Black or African American,F,58
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,Hispanic,M,157
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,Hispanic,F,137
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,White,M,125
+190,Metro Nashville Public Schools,148,Croft Middle,All Grades,White,F,111
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,Black or African American,M,144
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,Black or African American,F,138
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,Hispanic,M,15
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,Hispanic,F,14
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,White,M,15
+190,Metro Nashville Public Schools,150,Cumberland Elementary,All Grades,White,F,23
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,Asian,F,8
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,Black or African American,M,47
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,Black or African American,F,36
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,Hispanic,M,34
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,Hispanic,F,32
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,White,M,173
+190,Metro Nashville Public Schools,160,Dan Mills Elementary,All Grades,White,F,165
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,Asian,M,5
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,Asian,F,8
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,Black or African American,M,89
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,Black or African American,F,117
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,Hispanic,M,37
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,Hispanic,F,42
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,White,M,57
+190,Metro Nashville Public Schools,165,Dodson Elementary,All Grades,White,F,51
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,Asian,M,6
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,Asian,F,10
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,Black or African American,M,183
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,Black or African American,F,171
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,Hispanic,M,65
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,Hispanic,F,64
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,American Indian or Alaskan Native,M,2
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,White,M,133
+190,Metro Nashville Public Schools,175,Donelson Middle,All Grades,White,F,125
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,Asian,M,3
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,Asian,F,2
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,Black or African American,M,48
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,Black or African American,F,45
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,Hispanic,M,13
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,Hispanic,F,17
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,White,M,112
+190,Metro Nashville Public Schools,180,DuPont Elementary,All Grades,White,F,119
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,Asian,M,11
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,Asian,F,10
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,Black or African American,M,160
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,Black or African American,F,120
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,Hispanic,M,52
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,Hispanic,F,73
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,Native Hawaiian or Pacific Islander,F,2
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,White,M,95
+190,Metro Nashville Public Schools,185,DuPont Tyler Middle,All Grades,White,F,75
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,Asian,M,5
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,Asian,F,8
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,Black or African American,M,102
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,Black or African American,F,82
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,Hispanic,M,37
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,Hispanic,F,54
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,American Indian or Alaskan Native,F,2
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,White,M,202
+190,Metro Nashville Public Schools,190,DuPont Hadley Middle,All Grades,White,F,165
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,Asian,M,25
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,Asian,F,40
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,Black or African American,M,107
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,Black or African American,F,128
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,Hispanic,M,13
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,Hispanic,F,14
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,White,M,125
+190,Metro Nashville Public Schools,195,Eakin Elementary,All Grades,White,F,119
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,Asian,F,2
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,Black or African American,M,300
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,Black or African American,F,381
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,Hispanic,M,8
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,Hispanic,F,10
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,White,M,21
+190,Metro Nashville Public Schools,203,East Nashville Magnet High School,All Grades,White,F,22
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,Asian,M,10
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,Asian,F,8
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,Black or African American,M,142
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,Black or African American,F,121
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,Hispanic,M,94
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,Hispanic,F,82
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,Native Hawaiian or Pacific Islander,F,3
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,White,M,136
+190,Metro Nashville Public Schools,208,Thomas A. Edison Elementary,All Grades,White,F,103
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,Black or African American,M,83
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,Black or African American,F,78
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,Hispanic,M,33
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,Hispanic,F,18
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,White,M,21
+190,Metro Nashville Public Schools,220,Fall-Hamilton Elementary,All Grades,White,F,18
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,Asian,F,2
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,Black or African American,M,61
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,Black or African American,F,51
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,Hispanic,M,44
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,Hispanic,F,57
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,White,M,30
+190,Metro Nashville Public Schools,235,Gateway Elementary,All Grades,White,F,31
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,Asian,M,5
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,Asian,F,9
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,Black or African American,M,21
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,Black or African American,F,21
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,Hispanic,M,181
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,Hispanic,F,161
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,White,M,42
+190,Metro Nashville Public Schools,240,Glencliff Elementary,All Grades,White,F,48
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,Asian,M,41
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,Asian,F,38
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,Black or African American,M,139
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,Black or African American,F,129
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,Hispanic,M,352
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,Hispanic,F,298
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,White,M,132
+190,Metro Nashville Public Schools,245,Glencliff High School,All Grades,White,F,123
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,Asian,M,7
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,Black or African American,M,14
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,Black or African American,F,6
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,Hispanic,M,9
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,Hispanic,F,14
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,White,M,184
+190,Metro Nashville Public Schools,250,Glendale Elementary,All Grades,White,F,169
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,Black or African American,M,24
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,Black or African American,F,31
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,Hispanic,M,133
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,Hispanic,F,109
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,White,M,30
+190,Metro Nashville Public Schools,255,Glengarry Elementary,All Grades,White,F,38
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,Asian,F,2
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,Black or African American,M,65
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,Black or African American,F,75
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,Hispanic,M,1
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,Hispanic,F,2
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,White,M,4
+190,Metro Nashville Public Schools,260,Glenn Elementary,All Grades,White,F,6
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,Asian,F,2
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,Black or African American,M,66
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,Black or African American,F,45
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,Hispanic,M,171
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,Hispanic,F,130
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,White,M,93
+190,Metro Nashville Public Schools,265,Glenview Elementary,All Grades,White,F,92
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,Asian,F,6
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,Black or African American,M,70
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,Black or African American,F,59
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,Hispanic,M,30
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,Hispanic,F,28
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,Native Hawaiian or Pacific Islander,F,2
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,White,M,52
+190,Metro Nashville Public Schools,270,Goodlettsville Elementary,All Grades,White,F,65
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,Asian,M,6
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,Asian,F,8
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,Black or African American,M,133
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,Black or African American,F,130
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,Hispanic,M,67
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,Hispanic,F,68
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,Native Hawaiian or Pacific Islander,F,2
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,White,M,86
+190,Metro Nashville Public Schools,275,Goodlettsville Middle,All Grades,White,F,70
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,Asian,M,26
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,Asian,F,27
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,Black or African American,M,77
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,Black or African American,F,60
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,Hispanic,M,34
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,Hispanic,F,35
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,White,M,175
+190,Metro Nashville Public Schools,280,Gower Elementary,All Grades,White,F,163
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,Asian,F,4
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,Black or African American,M,138
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,Black or African American,F,111
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,Hispanic,M,22
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,Hispanic,F,24
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,White,M,18
+190,Metro Nashville Public Schools,285,Gra-Mar Middle,All Grades,White,F,21
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,Asian,M,51
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,Asian,F,33
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,Black or African American,M,50
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,Black or African American,F,51
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,Hispanic,M,60
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,Hispanic,F,52
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,American Indian or Alaskan Native,M,2
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,American Indian or Alaskan Native,F,2
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,Native Hawaiian or Pacific Islander,M,2
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,White,M,212
+190,Metro Nashville Public Schools,290,Granbery Elementary,All Grades,White,F,209
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,Asian,M,22
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,Asian,F,24
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,Black or African American,M,103
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,Black or African American,F,90
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,Hispanic,M,55
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,Hispanic,F,74
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,American Indian or Alaskan Native,M,2
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,White,M,162
+190,Metro Nashville Public Schools,295,H. G. Hill Middle,All Grades,White,F,125
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,Black or African American,M,184
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,Black or African American,F,208
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,Hispanic,M,4
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,Hispanic,F,5
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,White,M,12
+190,Metro Nashville Public Schools,296,East Nashville Middle,All Grades,White,F,19
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,Asian,M,29
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,Asian,F,27
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,Black or African American,M,56
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,Black or African American,F,50
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,Hispanic,M,29
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,Hispanic,F,22
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,American Indian or Alaskan Native,M,2
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,Native Hawaiian or Pacific Islander,M,2
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,Native Hawaiian or Pacific Islander,F,2
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,White,M,276
+190,Metro Nashville Public Schools,300,Harpeth Valley Elementary,All Grades,White,F,247
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,Asian,M,10
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,Asian,F,7
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,Black or African American,M,44
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,Black or African American,F,38
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,Hispanic,M,27
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,Hispanic,F,14
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,White,M,179
+190,Metro Nashville Public Schools,302,Harris-Hillman Special Education,All Grades,White,F,88
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,Black or African American,M,115
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,Black or African American,F,132
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,Hispanic,M,1
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,Hispanic,F,0
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,White,M,4
+190,Metro Nashville Public Schools,305,Haynes Middle,All Grades,White,F,1
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,Asian,M,65
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,Asian,F,47
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,Black or African American,M,36
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,Black or African American,F,34
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,Hispanic,M,207
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,Hispanic,F,183
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,White,M,35
+190,Metro Nashville Public Schools,310,Haywood Elementary,All Grades,White,F,38
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,Asian,M,24
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,Asian,F,20
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,Black or African American,M,166
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,Black or African American,F,182
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,Hispanic,M,18
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,Hispanic,F,16
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,White,M,90
+190,Metro Nashville Public Schools,315,Head Middle,All Grades,White,F,66
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,Asian,M,20
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,Asian,F,19
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,Black or African American,M,62
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,Black or African American,F,54
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,Hispanic,M,148
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,Hispanic,F,129
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,White,M,91
+190,Metro Nashville Public Schools,318,Henry C. Maxwell Elementary,All Grades,White,F,71
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,Asian,M,6
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,Black or African American,M,42
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,Black or African American,F,43
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,Hispanic,M,32
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,Hispanic,F,26
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,White,M,67
+190,Metro Nashville Public Schools,320,Hermitage Elementary,All Grades,White,F,80
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,Asian,M,11
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,Asian,F,4
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,Black or African American,M,105
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,Black or African American,F,81
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,Hispanic,M,34
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,Hispanic,F,34
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,Native Hawaiian or Pacific Islander,M,3
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,White,M,102
+190,Metro Nashville Public Schools,327,Hickman Elementary,All Grades,White,F,97
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,Asian,M,39
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,Asian,F,28
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,Black or African American,M,76
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,Black or African American,F,98
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,Hispanic,M,17
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,Hispanic,F,24
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,White,M,187
+190,Metro Nashville Public Schools,330,Meigs Middle,All Grades,White,F,217
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,Asian,M,19
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,Asian,F,22
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,Black or African American,M,298
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,Black or African American,F,325
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,Hispanic,M,32
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,Hispanic,F,30
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,American Indian or Alaskan Native,M,2
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,White,M,253
+190,Metro Nashville Public Schools,335,Hillsboro High,All Grades,White,F,229
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,Asian,M,44
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,Asian,F,41
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,Black or African American,M,188
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,Black or African American,F,166
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,Hispanic,M,96
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,Hispanic,F,74
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,White,M,283
+190,Metro Nashville Public Schools,340,Hillwood High,All Grades,White,F,209
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,Asian,M,5
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,Asian,F,4
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,Black or African American,M,135
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,Black or African American,F,131
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,Hispanic,M,5
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,Hispanic,F,4
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,White,M,7
+190,Metro Nashville Public Schools,350,Hull-Jackson Elementary,All Grades,White,F,13
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,Asian,M,34
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,Asian,F,54
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,Black or African American,M,88
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,Black or African American,F,136
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,Hispanic,M,25
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,Hispanic,F,38
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,American Indian or Alaskan Native,M,2
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,American Indian or Alaskan Native,F,4
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,White,M,224
+190,Metro Nashville Public Schools,355,Hume - Fogg High,All Grades,White,F,288
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,Asian,M,9
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,Asian,F,6
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,Black or African American,M,327
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,Black or African American,F,351
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,Hispanic,M,262
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,Hispanic,F,218
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,Native Hawaiian or Pacific Islander,F,3
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,White,M,129
+190,Metro Nashville Public Schools,358,Hunters Lane High,All Grades,White,F,108
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,Black or African American,M,78
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,Black or African American,F,69
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,Hispanic,M,9
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,Hispanic,F,7
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,White,M,17
+190,Metro Nashville Public Schools,360,Inglewood Elementary,All Grades,White,F,12
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,Asian,F,5
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,Black or African American,M,109
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,Black or African American,F,105
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,Hispanic,M,24
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,Hispanic,F,31
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,White,M,117
+190,Metro Nashville Public Schools,365,Isaac Litton Middle,All Grades,White,F,103
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,Asian,M,29
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,Asian,F,25
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,Black or African American,M,63
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,Black or African American,F,83
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,Hispanic,M,235
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,Hispanic,F,246
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,American Indian or Alaskan Native,M,2
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,White,M,52
+190,Metro Nashville Public Schools,370,J. E. Moss Elementary,All Grades,White,F,40
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,Black or African American,M,89
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,Black or African American,F,85
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,Hispanic,M,44
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,Hispanic,F,32
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,White,M,21
+190,Metro Nashville Public Schools,375,Jere Baxter Middle,All Grades,White,F,20
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,Black or African American,M,16
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,Black or African American,F,14
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,Hispanic,M,12
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,Hispanic,F,11
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,White,M,92
+190,Metro Nashville Public Schools,380,Joelton Elementary,All Grades,White,F,93
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,Black or African American,M,92
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,Black or African American,F,117
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,Hispanic,M,16
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,Hispanic,F,10
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,White,M,58
+190,Metro Nashville Public Schools,385,Joelton Middle,All Grades,White,F,28
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,Asian,M,3
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,Asian,F,2
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,Black or African American,M,151
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,Black or African American,F,154
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,Hispanic,M,11
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,Hispanic,F,5
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,White,M,13
+190,Metro Nashville Public Schools,386,John Early Middle,All Grades,White,F,16
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,Black or African American,M,147
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,Black or African American,F,136
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,Hispanic,M,1
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,Hispanic,F,2
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,White,M,1
+190,Metro Nashville Public Schools,387,Jones Elementary,All Grades,White,F,2
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,Asian,M,3
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,Asian,F,12
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,Black or African American,M,23
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,Black or African American,F,31
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,Hispanic,M,143
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,Hispanic,F,148
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,American Indian or Alaskan Native,M,2
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,White,M,26
+190,Metro Nashville Public Schools,390,John B. Whitsitt Elementary,All Grades,White,F,24
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,Asian,M,9
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,Asian,F,10
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,Black or African American,M,165
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,Black or African American,F,187
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,Hispanic,M,140
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,Hispanic,F,119
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,White,M,83
+190,Metro Nashville Public Schools,393,John F. Kennedy Middle,All Grades,White,F,69
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,Asian,M,129
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,Asian,F,116
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,Black or African American,M,239
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,Black or African American,F,188
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,Hispanic,M,372
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,Hispanic,F,320
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,American Indian or Alaskan Native,M,2
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,American Indian or Alaskan Native,F,2
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,Native Hawaiian or Pacific Islander,M,2
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,White,M,368
+190,Metro Nashville Public Schools,395,John Overton High,All Grades,White,F,291
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,Asian,M,13
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,Asian,F,8
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,Black or African American,M,18
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,Black or African American,F,17
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,Hispanic,M,6
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,Hispanic,F,3
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,White,M,194
+190,Metro Nashville Public Schools,415,Julia Green Elementary,All Grades,White,F,167
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,Black or African American,M,141
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,Black or African American,F,139
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,Hispanic,M,1
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,Hispanic,F,3
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,White,M,7
+190,Metro Nashville Public Schools,420,Robert E. Lilliard Elementary,All Grades,White,F,8
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,Asian,M,11
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,Asian,F,6
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,Black or African American,M,91
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,Black or African American,F,86
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,Hispanic,M,99
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,Hispanic,F,104
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,White,M,87
+190,Metro Nashville Public Schools,430,Lakeview Elementary,All Grades,White,F,76
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,Black or African American,M,10
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,Black or African American,F,13
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,Hispanic,M,5
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,Hispanic,F,2
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,White,M,142
+190,Metro Nashville Public Schools,435,Lockeland Elementary,All Grades,White,F,127
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,Black or African American,M,13
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,Black or African American,F,28
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,Hispanic,M,2
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,Hispanic,F,4
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,White,M,18
+190,Metro Nashville Public Schools,437,Middle College High,All Grades,White,F,34
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,Black or African American,M,46
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,Black or African American,F,12
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,Hispanic,M,5
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,Hispanic,F,1
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,White,M,31
+190,Metro Nashville Public Schools,443,Cora Howe School,All Grades,White,F,7
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,Asian,M,6
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,Asian,F,4
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,Black or African American,M,317
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,Black or African American,F,323
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,Hispanic,M,81
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,Hispanic,F,66
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,White,M,36
+190,Metro Nashville Public Schools,445,Maplewood High,All Grades,White,F,34
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,Asian,M,3
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,Asian,F,9
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,Black or African American,M,100
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,Black or African American,F,98
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,Hispanic,M,62
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,Hispanic,F,68
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,White,M,48
+190,Metro Nashville Public Schools,450,Margaret Allen Middle,All Grades,White,F,55
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,Asian,M,59
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,Asian,F,65
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,Black or African American,M,231
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,Black or African American,F,303
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,Hispanic,M,35
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,Hispanic,F,42
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,Native Hawaiian or Pacific Islander,M,2
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,White,M,255
+190,Metro Nashville Public Schools,456,Martin Luther King Jr School,All Grades,White,F,234
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,Asian,F,5
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,Black or African American,M,37
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,Black or African American,F,31
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,Hispanic,M,47
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,Hispanic,F,39
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,White,M,42
+190,Metro Nashville Public Schools,465,McGavock Elementary,All Grades,White,F,45
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,Asian,M,32
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,Asian,F,31
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,Black or African American,M,442
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,Black or African American,F,496
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,Hispanic,M,223
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,Hispanic,F,202
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,American Indian or Alaskan Native,M,4
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,American Indian or Alaskan Native,F,2
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,Native Hawaiian or Pacific Islander,M,2
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,White,M,524
+190,Metro Nashville Public Schools,470,McGavock High,All Grades,White,F,464
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,Asian,M,70
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,Asian,F,49
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,Black or African American,M,59
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,Black or African American,F,73
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,Hispanic,M,240
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,Hispanic,F,219
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,White,M,46
+190,Metro Nashville Public Schools,480,McMurray Middle,All Grades,White,F,47
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,Asian,M,12
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,Asian,F,15
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,Black or African American,M,97
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,Black or African American,F,91
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,Hispanic,M,16
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,Hispanic,F,26
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,White,M,211
+190,Metro Nashville Public Schools,490,John Trotwood Moore Middle,All Grades,White,F,202
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,Asian,M,10
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,Asian,F,14
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,Black or African American,M,122
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,Black or African American,F,111
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,Hispanic,M,76
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,Hispanic,F,95
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,American Indian or Alaskan Native,M,2
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,Native Hawaiian or Pacific Islander,M,2
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,White,M,88
+190,Metro Nashville Public Schools,493,Mt. View Elementary,All Grades,White,F,101
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,Black or African American,M,51
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,Black or African American,F,9
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,Hispanic,M,1
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,Hispanic,F,0
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,White,M,7
+190,Metro Nashville Public Schools,505,Murrell School,All Grades,White,F,0
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,Black or African American,M,127
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,Black or African American,F,103
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,Hispanic,M,13
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,Hispanic,F,8
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,White,M,2
+190,Metro Nashville Public Schools,510,Napier Elementary,All Grades,White,F,2
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,Asian,M,6
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,Asian,F,14
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,Black or African American,M,52
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,Black or African American,F,156
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,Hispanic,M,17
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,Hispanic,F,30
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,White,M,91
+190,Metro Nashville Public Schools,512,Nashville School Of The Arts,All Grades,White,F,199
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,Black or African American,M,59
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,Black or African American,F,55
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,Hispanic,M,71
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,Hispanic,F,65
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,White,M,40
+190,Metro Nashville Public Schools,515,Neely's Bend Elementary,All Grades,White,F,27
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,Asian,M,19
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,Asian,F,20
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,Black or African American,M,38
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,Black or African American,F,32
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,Hispanic,M,119
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,Hispanic,F,142
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,White,M,85
+190,Metro Nashville Public Schools,525,Norman Binkley Elementary,All Grades,White,F,71
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,Asian,F,4
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,Black or African American,M,66
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,Black or African American,F,87
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,Hispanic,M,47
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,Hispanic,F,45
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,White,M,28
+190,Metro Nashville Public Schools,535,Old Center Elementary,All Grades,White,F,35
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,Asian,M,50
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,Asian,F,35
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,Black or African American,M,109
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,Black or African American,F,156
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,Hispanic,M,76
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,Hispanic,F,55
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,Native Hawaiian or Pacific Islander,M,4
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,White,M,210
+190,Metro Nashville Public Schools,538,William Henry Oliver Middle,All Grades,White,F,188
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,Asian,M,34
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,Asian,F,31
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,Black or African American,M,57
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,Black or African American,F,72
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,Hispanic,M,128
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,Hispanic,F,124
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,White,M,47
+190,Metro Nashville Public Schools,540,Paragon Mills Elementary,All Grades,White,F,54
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,Black or African American,M,177
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,Black or African American,F,178
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,Hispanic,M,10
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,Hispanic,F,6
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,White,M,2
+190,Metro Nashville Public Schools,545,Park Avenue Elementary,All Grades,White,F,3
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,Black or African American,M,339
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,Black or African American,F,299
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,Hispanic,M,13
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,Hispanic,F,9
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,White,M,8
+190,Metro Nashville Public Schools,555,Pearl-Cohn High,All Grades,White,F,8
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,Asian,F,7
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,Black or African American,M,22
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,Black or African American,F,21
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,Hispanic,M,32
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,Hispanic,F,25
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,White,M,85
+190,Metro Nashville Public Schools,565,Pennington Elementary,All Grades,White,F,74
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,Asian,M,15
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,Asian,F,10
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,Black or African American,M,8
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,Black or African American,F,11
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,Hispanic,M,8
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,Hispanic,F,13
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,American Indian or Alaskan Native,M,2
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,Native Hawaiian or Pacific Islander,F,2
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,White,M,225
+190,Metro Nashville Public Schools,570,Percy Priest Elementary,All Grades,White,F,241
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,Asian,M,6
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,Asian,F,3
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,Black or African American,M,124
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,Black or African American,F,116
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,Hispanic,M,20
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,Hispanic,F,16
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,Native Hawaiian or Pacific Islander,F,3
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,White,M,87
+190,Metro Nashville Public Schools,595,Rose Park Middle,All Grades,White,F,58
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,Asian,F,3
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,Black or African American,M,77
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,Black or African American,F,73
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,Hispanic,M,13
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,Hispanic,F,8
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,White,M,31
+190,Metro Nashville Public Schools,600,Rosebank Elementary,All Grades,White,F,17
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,Asian,M,10
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,Asian,F,16
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,Black or African American,M,133
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,Black or African American,F,110
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,Hispanic,M,28
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,Hispanic,F,31
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,American Indian or Alaskan Native,M,4
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,White,M,102
+190,Metro Nashville Public Schools,607,Ruby Major Elementary,All Grades,White,F,92
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,Asian,M,25
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,Asian,F,52
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,Black or African American,M,104
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,Black or African American,F,99
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,Hispanic,M,31
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,Hispanic,F,22
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,Native Hawaiian or Pacific Islander,M,4
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,Native Hawaiian or Pacific Islander,F,2
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,White,M,206
+190,Metro Nashville Public Schools,608,May Werthan Shayne Elementary School,All Grades,White,F,175
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,Black or African American,M,41
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,Black or African American,F,34
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,Hispanic,M,78
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,Hispanic,F,66
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,White,M,24
+190,Metro Nashville Public Schools,610,Shwab Elementary,All Grades,White,F,12
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,Black or African American,M,5
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,Black or African American,F,9
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,Hispanic,M,5
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,Hispanic,F,7
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,White,M,15
+190,Metro Nashville Public Schools,612,The Academy at Opry Mills,All Grades,White,F,9
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,Black or African American,M,18
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,Black or African American,F,16
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,Hispanic,M,6
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,Hispanic,F,4
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,White,M,11
+190,Metro Nashville Public Schools,614,The Academy at Old Cockrill,All Grades,White,F,11
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,Asian,F,7
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,Black or African American,M,44
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,Black or African American,F,43
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,Hispanic,M,13
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,Hispanic,F,20
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,White,M,86
+190,Metro Nashville Public Schools,615,Stanford Elementary,All Grades,White,F,65
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,Black or African American,M,169
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,Black or African American,F,152
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,Hispanic,M,1
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,Hispanic,F,2
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,White,M,1
+190,Metro Nashville Public Schools,618,Robert Churchwell Elementary,All Grades,White,F,1
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,Asian,M,10
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,Asian,F,16
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,Black or African American,M,424
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,Black or African American,F,397
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,Hispanic,M,32
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,Hispanic,F,41
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,American Indian or Alaskan Native,M,5
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,White,M,111
+190,Metro Nashville Public Schools,620,Stratford STEM Magnet School,All Grades,White,F,70
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,Asian,F,5
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,Black or African American,M,163
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,Black or African American,F,141
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,Hispanic,M,91
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,Hispanic,F,71
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,White,M,52
+190,Metro Nashville Public Schools,622,Madison Middle,All Grades,White,F,42
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,Asian,F,4
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,Black or African American,M,81
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,Black or African American,F,103
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,Hispanic,M,120
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,Hispanic,F,108
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,White,M,42
+190,Metro Nashville Public Schools,625,Stratton Elementary,All Grades,White,F,42
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,Asian,M,6
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,Asian,F,6
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,Black or African American,M,92
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,Black or African American,F,72
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,Hispanic,M,10
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,Hispanic,F,12
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,Native Hawaiian or Pacific Islander,F,3
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,White,M,141
+190,Metro Nashville Public Schools,630,Sylvan Park Elementary,All Grades,White,F,116
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,Asian,M,29
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,Asian,F,30
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,Black or African American,M,182
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,Black or African American,F,186
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,Hispanic,M,159
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,Hispanic,F,151
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,Native Hawaiian or Pacific Islander,M,2
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,White,M,94
+190,Metro Nashville Public Schools,633,Thurgood Marshall Middle,All Grades,White,F,82
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,Asian,F,3
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,Black or African American,M,121
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,Black or African American,F,112
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,Hispanic,M,41
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,Hispanic,F,33
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,White,M,37
+190,Metro Nashville Public Schools,635,Tom Joy Elementary,All Grades,White,F,29
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,Asian,M,10
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,Asian,F,7
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,Black or African American,M,83
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,Black or African American,F,73
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,Hispanic,M,53
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,Hispanic,F,67
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,American Indian or Alaskan Native,F,4
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,White,M,98
+190,Metro Nashville Public Schools,637,Tulip Grove Elementary,All Grades,White,F,85
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,Asian,M,54
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,Asian,F,50
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,Black or African American,M,53
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,Black or African American,F,58
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,Hispanic,M,217
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,Hispanic,F,178
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,White,M,56
+190,Metro Nashville Public Schools,645,Tusculum Elementary,All Grades,White,F,47
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,Asian,M,8
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,Asian,F,4
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,Black or African American,M,83
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,Black or African American,F,102
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,Hispanic,M,47
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,Hispanic,F,41
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,White,M,54
+190,Metro Nashville Public Schools,650,Two Rivers Middle,All Grades,White,F,73
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,Asian,M,11
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,Asian,F,11
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,Black or African American,M,122
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,Black or African American,F,136
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,Hispanic,M,124
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,Hispanic,F,104
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,White,M,129
+190,Metro Nashville Public Schools,655,Una Elementary,All Grades,White,F,118
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,Black or African American,M,113
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,Black or African American,F,105
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,Hispanic,M,13
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,Hispanic,F,11
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,White,M,16
+190,Metro Nashville Public Schools,670,Carter-Lawrence Elementary,All Grades,White,F,15
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,Asian,M,3
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,Black or African American,M,120
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,Black or African American,F,126
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,Hispanic,M,4
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,Hispanic,F,3
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,White,M,6
+190,Metro Nashville Public Schools,675,Warner Elementary,All Grades,White,F,6
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,Asian,M,12
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,Asian,F,9
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,Black or African American,M,108
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,Black or African American,F,104
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,Hispanic,M,10
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,Hispanic,F,16
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,White,M,122
+190,Metro Nashville Public Schools,690,West End Middle,All Grades,White,F,105
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,Asian,M,13
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,Asian,F,8
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,Black or African American,M,54
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,Black or African American,F,33
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,Hispanic,M,31
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,Hispanic,F,43
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,White,M,102
+190,Metro Nashville Public Schools,695,Westmeade Elementary,All Grades,White,F,118
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,Black or African American,M,124
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,Black or African American,F,234
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,Hispanic,M,1
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,Hispanic,F,5
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,American Indian or Alaskan Native,F,2
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,White,M,19
+190,Metro Nashville Public Schools,700,Creswell Middle School of the Arts,All Grades,White,F,27
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,Asian,F,3
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,Black or African American,M,271
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,Black or African American,F,285
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,Hispanic,M,27
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,Hispanic,F,12
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,White,M,54
+190,Metro Nashville Public Schools,704,Whites Creek High,All Grades,White,F,31
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,Asian,M,18
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,Asian,F,26
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,Black or African American,M,71
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,Black or African American,F,59
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,Hispanic,M,224
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,Hispanic,F,187
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,White,M,77
+190,Metro Nashville Public Schools,715,Wright Middle,All Grades,White,F,58
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,Asian,F,4
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,Black or African American,M,15
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,Black or African American,F,16
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,Hispanic,M,9
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,Hispanic,F,19
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,White,M,13
+190,Metro Nashville Public Schools,720,The Academy at Hickory Hollow,All Grades,White,F,10
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,Black or African American,M,59
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,Black or African American,F,10
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,Hispanic,M,14
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,Hispanic,F,8
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,White,M,9
+190,Metro Nashville Public Schools,740,Johnson Alternative Learning Center,All Grades,White,F,3
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,Black or African American,M,29
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,Black or African American,F,27
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,Hispanic,M,3
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,Hispanic,F,3
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,White,M,5
+190,Metro Nashville Public Schools,745,The Cohn Learning Center,All Grades,White,F,4
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,Asian,M,5
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,Black or African American,M,118
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,Black or African American,F,116
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,Hispanic,M,59
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,Hispanic,F,82
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,Native Hawaiian or Pacific Islander,M,2
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,White,M,85
+190,Metro Nashville Public Schools,750,Smith Springs Elementary School,All Grades,White,F,72
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,Asian,F,12
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,Black or African American,M,109
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,Black or African American,F,130
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,Hispanic,M,10
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,Hispanic,F,13
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,White,M,96
+190,Metro Nashville Public Schools,755,Waverly-Belmont Elementary School,All Grades,White,F,97
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,Black or African American,M,44
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,Black or African American,F,44
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,Hispanic,M,42
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,Hispanic,F,50
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,White,M,3
+190,Metro Nashville Public Schools,8001,Smithson Craighead Academy,All Grades,White,F,2
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,Asian,F,3
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,Black or African American,M,97
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,Black or African American,F,109
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,Hispanic,M,74
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,Hispanic,F,64
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,White,M,8
+190,Metro Nashville Public Schools,8002,KIPP Academy Nashville,All Grades,White,F,7
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,Asian,F,7
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,Black or African American,M,107
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,Black or African American,F,94
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,Hispanic,M,72
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,Hispanic,F,87
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,White,M,26
+190,Metro Nashville Public Schools,8003,Lead Academy,All Grades,White,F,20
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,Black or African American,M,45
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,Black or African American,F,55
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,Hispanic,M,39
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,Hispanic,F,53
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,White,M,4
+190,Metro Nashville Public Schools,8004,New Vision Academy,All Grades,White,F,4
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,Asian,F,2
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,Black or African American,M,65
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,Black or African American,F,105
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,Hispanic,M,124
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,Hispanic,F,112
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,White,M,28
+190,Metro Nashville Public Schools,8005,Liberty Collegiate Academy,All Grades,White,F,22
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,Asian,M,6
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,Asian,F,5
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,Black or African American,M,33
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,Black or African American,F,23
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,Hispanic,M,137
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,Hispanic,F,152
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,White,M,85
+190,Metro Nashville Public Schools,8006,STEM Prep Academy,All Grades,White,F,83
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,Asian,M,5
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,Asian,F,2
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,Black or African American,M,119
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,Black or African American,F,110
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,Hispanic,M,65
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,Hispanic,F,50
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,White,M,16
+190,Metro Nashville Public Schools,8008,Nashville Prep,All Grades,White,F,16
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,Asian,F,3
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,Black or African American,M,268
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,Black or African American,F,302
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,Hispanic,M,44
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,Hispanic,F,60
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,White,M,40
+190,Metro Nashville Public Schools,8009,East End Preparatory School,All Grades,White,F,30
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,Asian,F,3
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,Black or African American,M,89
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,Black or African American,F,98
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,Hispanic,M,175
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,Hispanic,F,173
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,White,M,37
+190,Metro Nashville Public Schools,8010,Cameron College Preparatory,All Grades,White,F,47
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,Black or African American,M,109
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,Black or African American,F,116
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,Hispanic,M,44
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,Hispanic,F,50
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,White,M,8
+190,Metro Nashville Public Schools,8011,KIPP Nashville Collegiate High School,All Grades,White,F,5
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,Black or African American,M,54
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,Black or African American,F,45
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,Hispanic,M,59
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,Hispanic,F,84
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,White,M,24
+190,Metro Nashville Public Schools,8012,Knowledge Academy,All Grades,White,F,24
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,Asian,M,11
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,Asian,F,19
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,Black or African American,M,66
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,Black or African American,F,78
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,Hispanic,M,128
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,Hispanic,F,126
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,White,M,102
+190,Metro Nashville Public Schools,8013,LEAD Prep Southeast,All Grades,White,F,85
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,Asian,M,3
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,Black or African American,M,148
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,Black or African American,F,131
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,Hispanic,M,29
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,Hispanic,F,21
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,White,M,5
+190,Metro Nashville Public Schools,8042,KIPP Nashville College Prep,All Grades,White,F,5
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,Asian,F,2
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,Black or African American,M,125
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,Black or African American,F,132
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,Hispanic,M,13
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,Hispanic,F,15
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,White,M,49
+190,Metro Nashville Public Schools,8044,Nashville Classical,All Grades,White,F,39
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,Asian,M,11
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,Asian,F,13
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,Black or African American,M,33
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,Black or African American,F,30
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,Hispanic,M,43
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,Hispanic,F,48
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,White,M,150
+190,Metro Nashville Public Schools,8045,Valor Flagship Academy,All Grades,White,F,156
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,Black or African American,M,149
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,Black or African American,F,172
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,Hispanic,M,7
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,Hispanic,F,5
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,White,M,7
+190,Metro Nashville Public Schools,8046,Purpose Prep,All Grades,White,F,0
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,Asian,M,4
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,Asian,F,3
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,Black or African American,M,44
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,Black or African American,F,59
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,Hispanic,M,153
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,Hispanic,F,143
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,White,M,45
+190,Metro Nashville Public Schools,8048,Intrepid College Preparatory Charter School,All Grades,White,F,41
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,Black or African American,M,150
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,Black or African American,F,137
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,Hispanic,M,56
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,Hispanic,F,48
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,American Indian or Alaskan Native,F,2
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,White,M,16
+190,Metro Nashville Public Schools,8050,Rocketship Nashville Northeast Elementary,All Grades,White,F,9
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,Black or African American,M,178
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,Black or African American,F,98
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,Hispanic,M,39
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,Hispanic,F,29
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,White,M,43
+190,Metro Nashville Public Schools,8055,Nashville Academy of Computer Science,All Grades,White,F,17
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,Black or African American,M,49
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,Black or African American,F,55
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,Hispanic,M,6
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,Hispanic,F,4
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,Native Hawaiian or Pacific Islander,F,1
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,White,M,55
+190,Metro Nashville Public Schools,8060,Explore Community School,All Grades,White,F,55
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,Asian,M,2
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,Asian,F,3
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,Black or African American,M,68
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,Black or African American,F,57
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,Hispanic,M,57
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,Hispanic,F,55
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,White,M,28
+190,Metro Nashville Public Schools,8065,Knowledge Academies High School,All Grades,White,F,17
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,Asian,F,1
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,Black or African American,M,125
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,Black or African American,F,124
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,Hispanic,M,108
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,Hispanic,F,101
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,White,M,34
+190,Metro Nashville Public Schools,8070,Rocketship United,All Grades,White,F,36
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,Asian,M,5
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,Asian,F,4
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,Black or African American,M,29
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,Black or African American,F,33
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,Hispanic,M,97
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,Hispanic,F,94
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,White,M,53
+190,Metro Nashville Public Schools,8075,STEM Prep High School,All Grades,White,F,62
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,Asian,M,15
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,Asian,F,14
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,Black or African American,M,45
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,Black or African American,F,39
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,Hispanic,M,61
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,Hispanic,F,49
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,White,M,129
+190,Metro Nashville Public Schools,8080,Valor Voyager Academy,All Grades,White,F,136
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,Asian,F,0
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,Black or African American,M,70
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,Black or African American,F,53
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,Hispanic,M,3
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,Hispanic,F,7
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,American Indian or Alaskan Native,M,1
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,White,M,1
+190,Metro Nashville Public Schools,8085,KIPP Nashville College Prep Elementary,All Grades,White,F,1
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,Asian,M,3
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,Asian,F,6
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,Black or African American,M,44
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,Black or African American,F,54
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,Hispanic,M,33
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,Hispanic,F,22
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,White,M,55
+190,Metro Nashville Public Schools,8090,Strive Collegiate Academy,All Grades,White,F,37
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,Asian,F,4
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,Black or African American,M,185
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,Black or African American,F,195
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,Hispanic,M,2
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,Hispanic,F,0
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,American Indian or Alaskan Native,F,1
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,White,M,10
+190,Metro Nashville Public Schools,8095,KIPP Academy Nashville Elementary School,All Grades,White,F,7
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,Asian,M,1
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,Asian,F,2
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,Black or African American,M,136
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,Black or African American,F,155
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,Hispanic,M,77
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,Hispanic,F,70
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,Native Hawaiian or Pacific Islander,M,1
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,White,M,19
+190,Metro Nashville Public Schools,8100,RePublic High School,All Grades,White,F,23
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,Asian,M,0
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,Asian,F,2
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,Black or African American,M,37
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,Black or African American,F,39
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,Hispanic,M,32
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,Hispanic,F,43
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,American Indian or Alaskan Native,M,0
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,American Indian or Alaskan Native,F,0
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,Native Hawaiian or Pacific Islander,M,0
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,Native Hawaiian or Pacific Islander,F,0
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,White,M,24
+190,Metro Nashville Public Schools,8105,KA @ The Crossings,All Grades,White,F,23

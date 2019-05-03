@@ -9,6 +9,15 @@ membership_1213 <- read_csv('./data/membership_school_2012-13.csv')
 profile_1718 <-  read_csv('./data/school_profile_2017-18.csv')
 clusters <- read_csv('./data/mnps_clusters.csv')
 
+mnps <- membership_1718 %>% 
+  filter(district_id == 190) %>% 
+  filter(grade == 'All Grades') %>% 
+  filter(gender != 'All Genders') %>% 
+  filter(race != 'All Race/Ethnic Groups')
+
+write_csv(mnps, 'mnps.csv')
+
+
 #beginning analysis 
 start <- membership_1718 %>% 
   filter(DISTRICT == '190') %>% 
@@ -317,11 +326,6 @@ mnps_both_years <- mnps_both_years %>%
   mutate(change = enrollment_1718 - enrollment_1617) %>% 
   filter(grade_1617 != -1)
 
-only_clusters <- clusters %>% 
-  select(SCHOOL_NO, cluster)
-
-only_clusters$SCHOOL_NO <- as.numeric(only_clusters$SCHOOL_NO)
-
 mnps_both_years_cluster <- left_join(mnps_both_years, only_clusters, by = c("school_id" = "SCHOOL_NO"))
 
 zoned_mnps <- mnps_both_years_cluster %>% 
@@ -332,14 +336,82 @@ non_zoned_mnps <- mnps_both_years_cluster %>%
 
 mnps_both_years_cluster$cluster[is.na(mnps_both_years_cluster$cluster)] <- 'Non-Zoned'
 
-grade_levels <- mnps_both_years_cluster %>% 
-  filter(cluster != 'Non-Zoned') %>% 
-  group_by(grade_1617) %>% 
-  summarise(
-    sum(change),
-    mean(change),
-    median(change)
-  )
+elem_paths <- clusters %>% 
+  filter(Type == 'Elementary') %>% 
+  filter(hs_feeder_name != 'Hunters Lane High' & hs_feeder_name != 'Cane Ridge High School' & hs_feeder_name != 'Maplewood High') %>% 
+  select(-Type, -cluster)
+
+elem_paths$SCHOOL_NO <- as.numeric(elem_paths$SCHOOL_NO)
+elem_paths$ms_feeder_code <- as.numeric(elem_paths$ms_feeder_code)
+elem_paths$hs_feeder_code <- as.numeric(elem_paths$hs_feeder_code)
+
+mnps_4 <- mnps_1617 %>% 
+  filter(grade == 4) %>% 
+  select(school_id, grade, enrollment)
+
+mnps_5 <- mnps_1718 %>% 
+  filter(grade == 5) %>% 
+  select(school_id, grade, enrollment)
+
+mnps_8 <- mnps_1617 %>% 
+  filter(grade == 8) %>% 
+  select(school_id, grade, enrollment)
+
+mnps_9 <- mnps_1718 %>% 
+  filter(grade == 9) %>% 
+  select(school_id, grade, enrollment)
+
+test <- left_join(elem_paths, mnps_4, by = c("SCHOOL_NO" = "school_id")) %>% 
+  filter(SCHOOL_NO != 8095) %>% 
+  select(SCHOOL_NO, SCHOOL_NAME, grade, enrollment, ms_feeder_code, ms_feeder_name, hs_feeder_code, hs_feeder_name)
+
+grouped <- test %>% 
+  group_by(ms_feeder_code) %>% 
+  mutate(expected_5th = sum(enrollment)) %>% 
+  ungroup() %>% 
+  select(SCHOOL_NO, SCHOOL_NAME, grade, enrollment, expected_5th, ms_feeder_code, ms_feeder_name, hs_feeder_code, hs_feeder_name)
+
+df <- left_join(grouped, mnps_5, by = c("ms_feeder_code" = "school_id")) %>% 
+  select(SCHOOL_NO, SCHOOL_NAME, grade.x, enrollment.x, expected_5th, enrollment.y, ms_feeder_code, ms_feeder_name, hs_feeder_code, hs_feeder_name)
+
+colnames(df) <- c('school_id', 'name', 'grade','4th_grade_enrollment','expected_5th_enrollment','actual_5th_enrollment', 'ms_feeder_code', 'ms_feeder_name','hs_feeder_code','hs_feeder_name')
+
+change_4_to_5 <- df %>% 
+  select(ms_feeder_code, ms_feeder_name, expected_5th_enrollment, actual_5th_enrollment) %>% 
+  mutate('difference' = actual_5th_enrollment - expected_5th_enrollment) %>% 
+  unique()
+
+## 8 to 9
+
+test <- left_join(elem_paths, mnps_8, by = c("ms_feeder_code" = "school_id")) %>% 
+  select(ms_feeder_code, ms_feeder_name, grade, enrollment, hs_feeder_code, hs_feeder_name) %>% 
+  unique()
+
+grouped <- test %>% 
+  group_by(hs_feeder_code) %>% 
+  mutate(expected_9th = sum(enrollment)) %>% 
+  ungroup() %>% 
+  select(ms_feeder_code, ms_feeder_name, grade, enrollment, expected_9th, hs_feeder_code, hs_feeder_name)
+
+df <- left_join(grouped, mnps_9, by = c("hs_feeder_code" = "school_id")) %>% 
+  select(ms_feeder_code, ms_feeder_name, grade.x, enrollment.x, grade.y, expected_9th, enrollment.y, hs_feeder_code, hs_feeder_name) %>% 
+  select(-grade.y, -grade.x)
+
+colnames(df) <- c('ms_feeder_code', 'ms_feeder_name','8th_grade_enrollment','expected_9th_enrollment','actual_9th_enrollment', 'hs_feeder_code', 'hs_feeder_name')
+
+change_8_to_9 <- df %>% 
+  select(hs_feeder_code, hs_feeder_name, expected_9th_enrollment, actual_9th_enrollment) %>% 
+  mutate('difference' = actual_9th_enrollment - expected_9th_enrollment) %>% 
+  unique()
+
+# grade_levels <- mnps_both_years_cluster %>% 
+#   filter(cluster != 'Non-Zoned') %>% 
+#   group_by(grade_1617) %>% 
+#   summarise(
+#     sum(change),
+#     mean(change),
+#     median(change)
+#   )
 
 ## need to fix 4th and 8th grade to account for pathways
 ## oy

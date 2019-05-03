@@ -87,6 +87,8 @@ scored_pathways <- left_join(merge2, limited_hs_tcap, by = c("hs_feeder_code" = 
 scored_pathways <- scored_pathways %>% 
   select('SCHOOL_NO', 'SCHOOL_NAME', 'ela_elem','math_elem','ms_feeder_code', 'ms_feeder_name','ela_ms', 'math_ms', 'hs_feeder_code','hs_feeder_name','ela_hs','math_hs','cluster')
 
+write_csv(scored_pathways, 'scored_pathways.csv')
+
 ## In these files, suppression also occurs where any individual proficiency level 
 ## is less than 5% or greater than 95% at the school level 
 ## (this is denoted by two asterisks**).
@@ -251,4 +253,45 @@ reshape_change_math %>%
   labs(x = 'Cluster', y = '% Change in Math On Track or Masterd', title = 'Median Math Student Mastery Change by Cluster') +
   theme(axis.text.x = element_text(angle = 30, hjust = 1)) +
   scale_fill_brewer(name = 'Change Type', palette = "Set2", labels = c("Elementary to Middle", "Middle to High"))
+
+### pivot idk
+
+limited_tcap <- tcap_2018 %>% 
+  filter(test == 'TNReady' | test == 'EOC') %>%
+  filter(subject == 'Math' | subject == 'ELA') %>% 
+  filter(grade == 'All Grades') %>% 
+  filter(subgroup == 'All Students') %>% 
+  select(year, system, system_name, school, school_name, test, subject, grade, subgroup, pct_on_mastered)
+
+limited_tcap$pct_on_mastered <- as.numeric(limited_tcap$pct_on_mastered)
+
+limited_tcap$subject <- mapply(gsub, pattern = "English I", replacement = 'ELA', limited_tcap$subject)
+limited_tcap$subject <- mapply(gsub, pattern = "Integrated Math I", replacement = 'Math', limited_tcap$subject)
+
+limited_type <- limited_tcap %>% 
+  mutate(type = case_when(
+    grepl("Elementary", school_name) ~ "Elementary",
+    grepl("Middle", school_name) ~ "Middle",
+    grepl("High", school_name) ~ "High",
+  )) %>% 
+  select(-test, -grade, -subgroup, -year) %>% 
+  drop_na() %>% 
+  filter(type != 'High')
+
+summ <- limited_type %>% 
+  group_by(system_name,subject,type) %>% 
+  summarise(
+    mean(pct_on_mastered, na.rm = TRUE),
+    median(pct_on_mastered, na.rm = TRUE)
+  ) %>% 
+  ungroup() %>% 
+  drop_na()
+
+colnames(summ) <- c('district','subject','type','mean_mastery','median_mastery')
+
+df <- summ %>% 
+  mutate(change_me = mean_mastery - lag(mean_mastery, default = mean_mastery[1])) %>% 
+  mutate(change_med = median_mastery - lag(median_mastery, default = median_mastery[1])) %>% 
+  filter(type != 'Elementary')
+
 
