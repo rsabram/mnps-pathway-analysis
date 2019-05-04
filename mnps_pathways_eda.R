@@ -39,9 +39,6 @@ pathways$hs_feeder_code <- as.numeric(pathways$hs_feeder_code)
 # clean assessment data
 
 table(mnps_tcap_2018$subject)
-
-mnps_tcap_2018 <- tcap_2018 %>% 
-  filter(system == 190)
   
 limited_ms_tcap <- mnps_tcap_2018 %>% 
   filter(test == 'TNReady' | test == 'EOC') %>%
@@ -295,3 +292,56 @@ df <- summ %>%
   filter(type != 'Elementary')
 
 
+mnps_tcap_2018 <- tcap_2018 %>% 
+  filter(system == 190)
+
+mnps_tcap_eda <- mnps_tcap_2018 %>% 
+  select(school, school_name, test, subject, grade, subgroup, pct_on_mastered) %>% 
+  filter(test == 'TNReady' | test == 'EOC')
+
+mnps_tcap_eda$pct_on_mastered <- mapply(gsub, pattern = '\\*{2}', replacement = 2.5, mnps_tcap_eda$pct_on_mastered)
+mnps_tcap_eda$pct_on_mastered <- as.numeric(mnps_tcap_eda$pct_on_mastered) 
+
+mnps_tcap_eda <- mnps_tcap_eda %>% 
+  drop_na() %>% 
+  filter(subgroup == 'All Students' | 
+         subgroup == 'Asian' |
+           subgroup == 'Black or African American' |
+           subgroup == 'Economically Disadvantaged' |
+           subgroup == 'Hispanic' |
+           subgroup == 'Students with Disabilities' |
+           subgroup == 'White'
+           ) %>% 
+  filter(subject == 'ELA' |
+           subject == 'Biology I' |
+           subject == 'English I' |
+           subject == 'Integrated Math I' |
+           subject == 'Math' |
+           subject == 'Science') %>% 
+  select(-test)
+
+mnps_tcap_eda %>% 
+  arrange(desc(pct_on_mastered)) %>% 
+  select(school_name[1])
+
+first(h(x, 1))
+nth(mnps_tcap_eda$school_name, 2)
+
+mnps_tcap %>% 
+  arrange(desc(pct_on_mastered)) %>% 
+  select(nth(mnps_tcap_eda$school_name, 3))
+
+locations <- read_csv('./data/mnps_locations.csv')
+
+test <- left_join(mnps_tcap_eda, locations, by = c('school' = "School State ID")) %>% 
+  filter(school != 260) %>% 
+  select(school, school_name, subject, grade, subgroup, pct_on_mastered, 'School Level','Lowest Grade','Highest Grade', 'Cluster','Street Address','City','State','ZIP Code','Phone Number','Principal Full Name','Principal Email','School Website')
+
+colnames(test) <- c('School ID','School Name','Subject','Grade Level','Subgroup','Percent Mastered', 'School Level','Lowest Grade','Highest Grade', 'Cluster','Address','City','State','ZIP','Phone Number','Principal','Principal Email','Website')
+
+test$Cluster[is.na(test$Cluster)] <- 'Non-Zoned'
+
+#saveRDS(test, 'mnps_tcap.RDS')
+
+table(mnps_tcap_eda$subject)
+table(mnps_tcap_eda$subgroup)

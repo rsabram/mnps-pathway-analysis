@@ -1,7 +1,6 @@
 setwd('/Users/rabram/Desktop/NSS/mnps-pathway-analysis')
 library(tidyverse)
 library(ggplot2)
-library(fuzzyjoin)
 
 #read in data
 membership_1718 <- read_csv('./data/membership_school_2017-18.csv')
@@ -9,14 +8,24 @@ membership_1213 <- read_csv('./data/membership_school_2012-13.csv')
 profile_1718 <-  read_csv('./data/school_profile_2017-18.csv')
 clusters <- read_csv('./data/mnps_clusters.csv')
 
+clusters$SCHOOL_NO <- as.numeric(clusters$SCHOOL_NO)
+
+# gender
 mnps <- membership_1718 %>% 
-  filter(district_id == 190) %>% 
-  filter(grade == 'All Grades') %>% 
-  filter(gender != 'All Genders') %>% 
-  filter(race != 'All Race/Ethnic Groups')
+  filter(DISTRICT == 190) %>% 
+  filter(GRADE == 'All Grades') %>% 
+  filter(GENDER != 'All Genders') %>% 
+  filter(RACE == 'All Race/Ethnic Groups') %>% 
+  select(SCHOOL, `SCHOOL NAME`, GENDER, ENROLLMENT)
+
+foo <- spread(mnps, GENDER, ENROLLMENT)
+
+fa <- left_join(foo, clusters, by = c(SCHOOL = "SCHOOL_NO")) %>% 
+  select(SCHOOL, SCHOOL_NAME, F, M, Type, cluster)
+
+write_csv(fa, 'gender_breakdown.csv')
 
 write_csv(mnps, 'mnps.csv')
-
 
 #beginning analysis 
 start <- membership_1718 %>% 
@@ -416,5 +425,42 @@ change_8_to_9 <- df %>%
 ## need to fix 4th and 8th grade to account for pathways
 ## oy
 
+## Over Time-
+
+# #colClasses = c("character", "character", "complex", 
+# "factor", "factor", "character", "integer", 
+# "integer", "numeric", "character", "character",
+# "Date", "integer", "logical")
+
+size_2010 <- read_csv('./data/data_2010.csv', stringsAsFactors = FALSE) %>% 
+  filter(district == 190)
+size_2011 <- read_csv('./data/data_2011.csv')%>% 
+  filter(district == 190)
+size_2012 <- read_csv('./data/data_2012.csv')%>% 
+  filter(district == 190)
+size_2013 <- read_csv('./data/data_2013.csv') %>%  
+  filter(DISTRICT == '00190')
+size_2014 <- read_csv('./data/data_2014.csv')%>% 
+  filter(district == 190)
+size_2015 <- read_csv('./data/data_2015.csv')%>% 
+  filter(DISTRICT == 190)
+size_2016 <- read_csv('./data/data_2016.csv')%>% 
+  filter(DISTRICT == 190)
+size_2017 <- read_csv('./data/data_2017.csv')%>% 
+  filter(DISTRICT_ID == 190)
+size_2018 <- read_csv('./data/data_2018.csv')%>% 
+  filter(DISTRICT_ID == 190)
+
+size_2010 %>% 
+  summarize(
+    sum(Total),
+    sum(White),
+    sum(`African American`),
+    sum(Hispanic),
+    sum(Asian),
+    sum(`Native American`)
+  )
+
+data.frame(apply(size_2010, 2:10, as.numeric))
   
   

@@ -1,63 +1,63 @@
-SCHOOL_NO,SCHOOL_NAME,ela_elem,math_elem,ms_feeder_code,ms_feeder_name,ela_ms,math_ms,hs_feeder_code,hs_feeder_name,ela_hs,math_hs,cluster,ela_elem_to_ms,ela_ms_to_hs,math_elem_to_ms,math_ms_to_hs
-370,J. E. Moss Elementary,14.5,17.7,25,Apollo Middle,13.9,11.3,20,Antioch High School,5,5,Antioch,-0.5999999999999996,-8.9,-6.399999999999999,-6.300000000000001
-430,Lakeview Elementary,18.2,16.8,25,Apollo Middle,13.9,11.3,20,Antioch High School,5,5,Antioch,-4.299999999999999,-8.9,-5.5,-6.300000000000001
-208,Thomas A. Edison Elementary,22.6,17.2,393,John F. Kennedy Middle,13.1,10.3,20,Antioch High School,5,5,Antioch,-9.500000000000002,-8.1,-6.899999999999999,-5.300000000000001
-493,Mt. View Elementary,24,27.5,393,John F. Kennedy Middle,13.1,10.3,20,Antioch High School,5,5,Antioch,-10.9,-8.1,-17.2,-5.300000000000001
-655,Una Elementary,20.1,35.7,450,Margaret Allen Middle,17.2,10.5,20,Antioch High School,5,5,Antioch,-2.900000000000002,-12.2,-25.200000000000003,-5.5
-82,Cane Ridge Elementary,20.1,22.3,23,Antioch Middle,10.2,12.6,77,Cane Ridge High School,5.1,5,Cane Ridge,-9.900000000000002,-5.1,-9.700000000000001,-7.6
-130,Cole Elementary,20.9,23.4,23,Antioch Middle,10.2,12.6,77,Cane Ridge High School,5.1,5,Cane Ridge,-10.7,-5.1,-10.799999999999999,-7.6
-1,A. Z. Kelley Elementary,30,34.2,633,Thurgood Marshall Middle,17.5,13.3,77,Cane Ridge High School,5.1,5,Cane Ridge,-12.5,-12.4,-20.900000000000002,-8.3
-318,Henry C. Maxwell Elementary,21.3,24.3,633,Thurgood Marshall Middle,17.5,13.3,77,Cane Ridge High School,5.1,5,Cane Ridge,-3.8000000000000007,-12.4,-11,-8.3
-240,Glencliff Elementary,19.5,29,715,Wright Middle,9.5,5.8,245,Glencliff High School,8.7,5,Glencliff,-10,-0.8000000000000007,-23.2,-0.7999999999999998
-255,Glengarry Elementary,18.9,24.8,715,Wright Middle,9.5,5.8,245,Glencliff High School,8.7,5,Glencliff,-9.399999999999999,-0.8000000000000007,-19,-0.7999999999999998
-540,Paragon Mills Elementary,17.9,11.7,715,Wright Middle,9.5,5.8,245,Glencliff High School,8.7,5,Glencliff,-8.399999999999999,-0.8000000000000007,-5.8999999999999995,-0.7999999999999998
-220,Fall-Hamilton Elementary,23.8,23.8,8010,Cameron College Prep,16.6,19.7,245,Glencliff High School,8.7,5,Glencliff,-7.199999999999999,-7.900000000000002,-4.100000000000001,-14.7
-265,Glenview Elementary,9,14.5,8010,Cameron College Prep,16.6,19.7,245,Glencliff High School,8.7,5,Glencliff,7.600000000000001,-7.900000000000002,5.199999999999999,-14.7
-390,John B. Whitsitt Elementary,20.1,18.9,8010,Cameron College Prep,16.6,19.7,245,Glencliff High School,8.7,5,Glencliff,-3.5,-7.900000000000002,0.8000000000000007,-14.7
-415,Julia Green Elementary,80.1,83.4,490,John Trotwood Moore Middle,48.4,44.8,335,Hillsboro High,30.7,11.7,Hillsboro,-31.699999999999996,-17.7,-38.60000000000001,-33.099999999999994
-570,Percy Priest Elementary,79.1,84.4,490,John Trotwood Moore Middle,48.4,44.8,335,Hillsboro High,30.7,11.7,Hillsboro,-30.699999999999996,-17.7,-39.60000000000001,-33.099999999999994
-755,Waverly-Belmont Elementary School,39.4,33.3,490,John Trotwood Moore Middle,48.4,44.8,335,Hillsboro High,30.7,11.7,Hillsboro,9,-17.7,11.5,-33.099999999999994
-195,Eakin Elementary,52.1,46.3,690,West End Middle,39.9,34.9,335,Hillsboro High,30.7,11.7,Hillsboro,-12.200000000000003,-9.2,-11.399999999999999,-23.2
-630,Sylvan Park Elementary,48.3,43.8,690,West End Middle,39.9,34.9,335,Hillsboro High,30.7,11.7,Hillsboro,-8.399999999999999,-9.2,-8.899999999999999,-23.2
-300,Harpeth Valley Elementary,57.7,49.5,40,Bellevue Middle,32.1,29.7,340,Hillwood High,16,6.3,Hillwood,-25.6,-16.1,-19.8,-23.4
-695,Westmeade Elementary,38.1,28.1,40,Bellevue Middle,32.1,29.7,340,Hillwood High,16,6.3,Hillwood,-6,-16.1,1.5999999999999979,-23.4
-110,Charlotte Park Elementary,16.3,23.9,295,H. G. Hill Middle,26.7,22.8,340,Hillwood High,16,6.3,Hillwood,10.399999999999999,-10.7,-1.0999999999999979,-16.5
-280,Gower Elementary,38.8,38.4,295,H. G. Hill Middle,26.7,22.8,340,Hillwood High,16,6.3,Hillwood,-12.099999999999998,-10.7,-15.599999999999998,-16.5
-235,Gateway Elementary,21.2,15.9,275,Goodlettsville Middle,15.6,7.9,358,Hunters Lane High,5.8,5,Hunters Lane,-5.6,-9.8,-8,-2.9000000000000004
-270,Goodlettsville Elementary,30.4,25.8,275,Goodlettsville Middle,15.6,7.9,358,Hunters Lane High,5.8,5,Hunters Lane,-14.799999999999999,-9.8,-17.9,-2.9000000000000004
-535,Old Center Elementary,26.3,34.5,275,Goodlettsville Middle,15.6,7.9,358,Hunters Lane High,5.8,5,Hunters Lane,-10.700000000000001,-9.8,-26.6,-2.9000000000000004
-45,Bellshire Elementary,8.8,8.8,622,Madison Middle,8.7,9.6,358,Hunters Lane High,5.8,5,Hunters Lane,-0.10000000000000142,-2.8999999999999995,0.7999999999999989,-4.6
-625,Stratton Elementary,18.5,32,622,Madison Middle,8.7,9.6,358,Hunters Lane High,5.8,5,Hunters Lane,-9.8,-2.8999999999999995,-22.4,-4.6
-145,Crieve Hall Elementary,50,65.1,148,Croft Middle,26.5,15.2,395,John Overton High,11.3,5,Overton,-23.5,-15.2,-49.89999999999999,-10.2
-525,Norman Binkley Elementary,28.2,27.6,148,Croft Middle,26.5,15.2,395,John Overton High,11.3,5,Overton,-1.6999999999999993,-15.2,-12.400000000000002,-10.2
-310,Haywood Elementary,17.6,22.5,480,McMurray Middle,10.9,10,395,John Overton High,11.3,5,Overton,-6.700000000000001,0.40000000000000036,-12.5,-5
-645,Tusculum Elementary,14.7,21.5,480,McMurray Middle,10.9,10,395,John Overton High,11.3,5,Overton,-3.799999999999999,0.40000000000000036,-11.5,-5
-290,Granbery Elementary,46,42.9,538,William Henry Oliver Middle,35.1,25.3,395,John Overton High,11.3,5,Overton,-10.899999999999999,-23.8,-17.599999999999998,-20.3
-608,May Werthan Shayne Elementary School,45,51.2,538,William Henry Oliver Middle,35.1,25.3,395,John Overton High,11.3,5,Overton,-9.899999999999999,-23.8,-25.900000000000002,-20.3
-105,Chadwell Elementary,20.9,24.1,285,Gra-Mar Middle,6.9,5.2,445,Maplewood High,5,5,Maplewood,-13.999999999999998,-1.9000000000000004,-18.900000000000002,-0.20000000000000018
-140,Hattie Cotton Elementary,21.6,12.9,285,Gra-Mar Middle,6.9,5.2,445,Maplewood High,5,5,Maplewood,-14.700000000000001,-1.9000000000000004,-7.7,-0.20000000000000018
-610,Shwab Elementary,19.4,22.3,375,Jere Baxter Middle,5.8,5,445,Maplewood High,5,5,Maplewood,-13.599999999999998,-0.7999999999999998,-17.3,0
-635,Tom Joy Elementary,5.1,5,375,Jere Baxter Middle,5.8,5,445,Maplewood High,5,5,Maplewood,0.7000000000000002,-0.7999999999999998,0,0
-320,Hermitage Elementary,28.6,22.7,175,Donelson Middle,16,12.6,470,McGavock High,12.9,5,McGavock,-12.600000000000001,-3.0999999999999996,-10.1,-7.6
-327,Hickman Elementary,32,22.4,175,Donelson Middle,16,12.6,470,McGavock High,12.9,5,McGavock,-16,-3.0999999999999996,-9.799999999999999,-7.6
-607,Ruby Major Elementary,26.3,21.8,175,Donelson Middle,16,12.6,470,McGavock High,12.9,5,McGavock,-10.3,-3.0999999999999996,-9.200000000000001,-7.6
-165,Dodson Elementary,24.7,25.9,185,DuPont Tyler Middle,16.2,9.2,470,McGavock High,12.9,5,McGavock,-8.5,-3.299999999999999,-16.7,-4.199999999999999
-637,Tulip Grove Elementary,33.9,28.5,185,DuPont Tyler Middle,16.2,9.2,470,McGavock High,12.9,5,McGavock,-17.7,-3.299999999999999,-19.3,-4.199999999999999
-15,Andrew Jackson Elementary,41,38.5,190,DuPont Hadley Middle,25.3,24.1,470,McGavock High,12.9,5,McGavock,-15.7,-12.4,-14.399999999999999,-19.1
-180,DuPont Elementary,28.4,17.2,190,DuPont Hadley Middle,25.3,24.1,470,McGavock High,12.9,5,McGavock,-3.099999999999998,-12.4,6.900000000000002,-19.1
-465,McGavock Elementary,23.1,21.5,650,Two Rivers Middle,19.7,11.1,470,McGavock High,12.9,5,McGavock,-3.400000000000002,-6.799999999999999,-10.4,-6.1
-510,Napier Elementary,5,5,650,Two Rivers Middle,19.7,11.1,470,McGavock High,12.9,5,McGavock,14.7,-6.799999999999999,6.1,-6.1
-565,Pennington Elementary,31.5,14.4,650,Two Rivers Middle,19.7,11.1,470,McGavock High,12.9,5,McGavock,-11.8,-6.799999999999999,-3.3000000000000007,-6.1
-120,Cockrill Elementary,15.2,16.1,35,Moses McKissack Middle,6.7,5,555,Pearl-Cohn High,5,8.1,Pearl-Cohn,-8.5,-1.7000000000000002,-11.100000000000001,3.0999999999999996
-545,Park Avenue Elementary,15.4,13.4,35,Moses McKissack Middle,6.7,5,555,Pearl-Cohn High,5,8.1,Pearl-Cohn,-8.7,-1.7000000000000002,-8.4,3.0999999999999996
-70,Buena Vista Elementary,7.4,6.3,386,John Early Middle,18.5,6.4,555,Pearl-Cohn High,5,8.1,Pearl-Cohn,11.1,-13.5,0.10000000000000053,1.6999999999999993
-618,Robert Churchwell Elementary,10,5,386,John Early Middle,18.5,6.4,555,Pearl-Cohn High,5,8.1,Pearl-Cohn,8.5,-13.5,1.4000000000000004,1.6999999999999993
-160,Dan Mills Elementary,55.9,51.3,365,Isaac Litton Middle,26.7,15.5,620,Stratford STEM Magnet School,5,5,Stratford,-29.2,-21.7,-35.8,-10.5
-360,Inglewood Elementary,12.9,16.1,365,Isaac Litton Middle,26.7,15.5,620,Stratford STEM Magnet School,5,5,Stratford,13.799999999999999,-21.7,-0.6000000000000014,-10.5
-600,Rosebank Elementary,15.2,8.9,620,Stratford STEM Magnet School,5,5,620,Stratford STEM Magnet School,5,5,Stratford,-10.2,0,-3.9000000000000004,0
-675,Warner Elementary,5,5,620,Stratford STEM Magnet School,5,5,620,Stratford STEM Magnet School,5,5,Stratford,0,0,0,0
-8095,KIPP Academy Nashville ES,10.8,25.7,620,Stratford STEM Magnet School,5,5,620,Stratford STEM Magnet School,5,5,Stratford,-5.800000000000001,0,-20.7,0
-150,Cumberland Elementary,7.9,5,385,Joelton Middle,5.6,5,704,Whites Creek High,5.6,5,Whites Creek,-2.3000000000000007,0,0,0
-380,Joelton Elementary,39.8,41,385,Joelton Middle,5.6,5,704,Whites Creek High,5.6,5,Whites Creek,-34.199999999999996,0,-36,0
-420,Robert E. Lilliard Elementary,13.7,11,385,Joelton Middle,5.6,5,704,Whites Creek High,5.6,5,Whites Creek,-8.1,0,-6,0
-5,Alex Green Elementary,13.3,8.8,8005,Lead Brick Church,28.2,30.3,704,Whites Creek High,5.6,5,Whites Creek,14.899999999999999,-22.6,21.5,-25.3
+SCHOOL_NO,SCHOOL_NAME,ela_elem,math_elem,ms_feeder_code,ms_feeder_name,ela_ms,math_ms,hs_feeder_code,hs_feeder_name,ela_hs,math_hs,cluster
+370,J. E. Moss Elementary,14.5,17.7,25,Apollo Middle,13.9,11.3,20,Antioch High School,5,**,Antioch
+430,Lakeview Elementary,18.2,16.8,25,Apollo Middle,13.9,11.3,20,Antioch High School,5,**,Antioch
+208,Thomas A. Edison Elementary,22.6,17.2,393,John F. Kennedy Middle,13.1,10.3,20,Antioch High School,5,**,Antioch
+493,Mt. View Elementary,24,27.5,393,John F. Kennedy Middle,13.1,10.3,20,Antioch High School,5,**,Antioch
+655,Una Elementary,20.1,35.7,450,Margaret Allen Middle,17.2,10.5,20,Antioch High School,5,**,Antioch
+82,Cane Ridge Elementary,20.1,22.3,23,Antioch Middle,10.2,12.6,77,Cane Ridge High School,5.1,**,Cane Ridge
+130,Cole Elementary,20.9,23.4,23,Antioch Middle,10.2,12.6,77,Cane Ridge High School,5.1,**,Cane Ridge
+1,A. Z. Kelley Elementary,30,34.2,633,Thurgood Marshall Middle,17.5,13.3,77,Cane Ridge High School,5.1,**,Cane Ridge
+318,Henry C. Maxwell Elementary,21.3,24.3,633,Thurgood Marshall Middle,17.5,13.3,77,Cane Ridge High School,5.1,**,Cane Ridge
+240,Glencliff Elementary,19.5,29,715,Wright Middle,9.5,5.8,245,Glencliff High School,8.7,**,Glencliff
+255,Glengarry Elementary,18.9,24.8,715,Wright Middle,9.5,5.8,245,Glencliff High School,8.7,**,Glencliff
+540,Paragon Mills Elementary,17.9,11.7,715,Wright Middle,9.5,5.8,245,Glencliff High School,8.7,**,Glencliff
+220,Fall-Hamilton Elementary,23.8,23.8,8010,Cameron College Prep,16.6,19.7,245,Glencliff High School,8.7,**,Glencliff
+265,Glenview Elementary,9,14.5,8010,Cameron College Prep,16.6,19.7,245,Glencliff High School,8.7,**,Glencliff
+390,John B. Whitsitt Elementary,20.1,18.9,8010,Cameron College Prep,16.6,19.7,245,Glencliff High School,8.7,**,Glencliff
+415,Julia Green Elementary,80.1,83.4,490,John Trotwood Moore Middle,48.4,44.8,335,Hillsboro High,30.7,11.7,Hillsboro
+570,Percy Priest Elementary,79.1,84.4,490,John Trotwood Moore Middle,48.4,44.8,335,Hillsboro High,30.7,11.7,Hillsboro
+755,Waverly-Belmont Elementary School,39.4,33.3,490,John Trotwood Moore Middle,48.4,44.8,335,Hillsboro High,30.7,11.7,Hillsboro
+195,Eakin Elementary,52.1,46.3,690,West End Middle,39.9,34.9,335,Hillsboro High,30.7,11.7,Hillsboro
+630,Sylvan Park Elementary,48.3,43.8,690,West End Middle,39.9,34.9,335,Hillsboro High,30.7,11.7,Hillsboro
+300,Harpeth Valley Elementary,57.7,49.5,40,Bellevue Middle,32.1,29.7,340,Hillwood High,16,6.3,Hillwood
+695,Westmeade Elementary,38.1,28.1,40,Bellevue Middle,32.1,29.7,340,Hillwood High,16,6.3,Hillwood
+110,Charlotte Park Elementary,16.3,23.9,295,H. G. Hill Middle,26.7,22.8,340,Hillwood High,16,6.3,Hillwood
+280,Gower Elementary,38.8,38.4,295,H. G. Hill Middle,26.7,22.8,340,Hillwood High,16,6.3,Hillwood
+235,Gateway Elementary,21.2,15.9,275,Goodlettsville Middle,15.6,7.9,358,Hunters Lane High,5.8,**,Hunters Lane
+270,Goodlettsville Elementary,30.4,25.8,275,Goodlettsville Middle,15.6,7.9,358,Hunters Lane High,5.8,**,Hunters Lane
+535,Old Center Elementary,26.3,34.5,275,Goodlettsville Middle,15.6,7.9,358,Hunters Lane High,5.8,**,Hunters Lane
+45,Bellshire Elementary,8.8,8.8,622,Madison Middle,8.7,9.6,358,Hunters Lane High,5.8,**,Hunters Lane
+625,Stratton Elementary,18.5,32,622,Madison Middle,8.7,9.6,358,Hunters Lane High,5.8,**,Hunters Lane
+145,Crieve Hall Elementary,50,65.1,148,Croft Middle,26.5,15.2,395,John Overton High,11.3,**,Overton
+525,Norman Binkley Elementary,28.2,27.6,148,Croft Middle,26.5,15.2,395,John Overton High,11.3,**,Overton
+310,Haywood Elementary,17.6,22.5,480,McMurray Middle,10.9,10,395,John Overton High,11.3,**,Overton
+645,Tusculum Elementary,14.7,21.5,480,McMurray Middle,10.9,10,395,John Overton High,11.3,**,Overton
+290,Granbery Elementary,46,42.9,538,William Henry Oliver Middle,35.1,25.3,395,John Overton High,11.3,**,Overton
+608,May Werthan Shayne Elementary School,45,51.2,538,William Henry Oliver Middle,35.1,25.3,395,John Overton High,11.3,**,Overton
+105,Chadwell Elementary,20.9,24.1,285,Gra-Mar Middle,6.9,5.2,445,Maplewood High,**,**,Maplewood
+140,Hattie Cotton Elementary,21.6,12.9,285,Gra-Mar Middle,6.9,5.2,445,Maplewood High,**,**,Maplewood
+610,Shwab Elementary,19.4,22.3,375,Jere Baxter Middle,5.8,**,445,Maplewood High,**,**,Maplewood
+635,Tom Joy Elementary,5.1,**,375,Jere Baxter Middle,5.8,**,445,Maplewood High,**,**,Maplewood
+320,Hermitage Elementary,28.6,22.7,175,Donelson Middle,16,12.6,470,McGavock High,12.9,**,McGavock
+327,Hickman Elementary,32,22.4,175,Donelson Middle,16,12.6,470,McGavock High,12.9,**,McGavock
+607,Ruby Major Elementary,26.3,21.8,175,Donelson Middle,16,12.6,470,McGavock High,12.9,**,McGavock
+165,Dodson Elementary,24.7,25.9,185,DuPont Tyler Middle,16.2,9.2,470,McGavock High,12.9,**,McGavock
+637,Tulip Grove Elementary,33.9,28.5,185,DuPont Tyler Middle,16.2,9.2,470,McGavock High,12.9,**,McGavock
+15,Andrew Jackson Elementary,41,38.5,190,DuPont Hadley Middle,25.3,24.1,470,McGavock High,12.9,**,McGavock
+180,DuPont Elementary,28.4,17.2,190,DuPont Hadley Middle,25.3,24.1,470,McGavock High,12.9,**,McGavock
+465,McGavock Elementary,23.1,21.5,650,Two Rivers Middle,19.7,11.1,470,McGavock High,12.9,**,McGavock
+510,Napier Elementary,**,**,650,Two Rivers Middle,19.7,11.1,470,McGavock High,12.9,**,McGavock
+565,Pennington Elementary,31.5,14.4,650,Two Rivers Middle,19.7,11.1,470,McGavock High,12.9,**,McGavock
+120,Cockrill Elementary,15.2,16.1,35,Moses McKissack Middle,6.7,**,555,Pearl-Cohn High,**,8.1,Pearl-Cohn
+545,Park Avenue Elementary,15.4,13.4,35,Moses McKissack Middle,6.7,**,555,Pearl-Cohn High,**,8.1,Pearl-Cohn
+70,Buena Vista Elementary,7.4,6.3,386,John Early Middle,18.5,6.4,555,Pearl-Cohn High,**,8.1,Pearl-Cohn
+618,Robert Churchwell Elementary,10,**,386,John Early Middle,18.5,6.4,555,Pearl-Cohn High,**,8.1,Pearl-Cohn
+160,Dan Mills Elementary,55.9,51.3,365,Isaac Litton Middle,26.7,15.5,620,Stratford STEM Magnet School,**,**,Stratford
+360,Inglewood Elementary,12.9,16.1,365,Isaac Litton Middle,26.7,15.5,620,Stratford STEM Magnet School,**,**,Stratford
+600,Rosebank Elementary,15.2,8.9,620,Stratford STEM Magnet School,**,**,620,Stratford STEM Magnet School,**,**,Stratford
+675,Warner Elementary,**,**,620,Stratford STEM Magnet School,**,**,620,Stratford STEM Magnet School,**,**,Stratford
+8095,KIPP Academy Nashville ES,10.8,25.7,620,Stratford STEM Magnet School,**,**,620,Stratford STEM Magnet School,**,**,Stratford
+150,Cumberland Elementary,7.9,**,385,Joelton Middle,5.6,**,704,Whites Creek High,5.6,**,Whites Creek
+380,Joelton Elementary,39.8,41,385,Joelton Middle,5.6,**,704,Whites Creek High,5.6,**,Whites Creek
+420,Robert E. Lilliard Elementary,13.7,11,385,Joelton Middle,5.6,**,704,Whites Creek High,5.6,**,Whites Creek
+5,Alex Green Elementary,13.3,8.8,8005,Lead Brick Church,28.2,30.3,704,Whites Creek High,5.6,**,Whites Creek
