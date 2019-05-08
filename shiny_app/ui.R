@@ -5,9 +5,9 @@ dashboardPage(
   dashboardSidebar(
     sidebarMenu(
       menuItem('Overview',tabName = "overview",icon = icon('bookmark')),
-      menuItem("MNPS Master School Data", tabName = "data", icon = icon('database')),
-      menuItem("Pathway Analysis", tabName = "pathways", icon = icon("chart-line")),
-      menuItem("Select A School", tabName = "select_a_school", icon = icon("school")),
+      menuItem("School Comparisons", tabName = "data", icon = icon('balance-scale')),
+      menuItem("Cluster Performace", tabName = "pathways", icon = icon("chart-line")),
+      menuItem("Search For A School", tabName = "select_a_school", icon = icon("school")),
       menuItem("Contact Me", tabName = "contact", icon = icon('at'))
     )),
   dashboardBody(
@@ -15,24 +15,10 @@ dashboardPage(
       tabItem(tabName = "overview",
               fluidPage(
                 sidebarLayout(
-                  sidebarPanel(h1('Exploring SAT Testing Sites in South Carolina'),
+                  sidebarPanel(h1('Title'),
                                h3(strong('Project Summmary & Motivation')),
-                               h4('From 2014-2016, I taught high school math and computer science in rural South Carolina',here <- a("(here).", href="https://www.marion.k12.sc.us/Domain/12", target="_blank") , "I taught primarily juniors and seniors, and as a wide-eyed Teach for America corps member I was determined to ensure 100% of my students could apply, attend, and graduate from college. I quickly realized this was not reality for my students - about 30% of the graduating class attended college after graduation and 30% of that population would go on to complete their degree. One particular barrier to higher education that concerned me was access to a testing location for the ACT or SAT. These tests are required for admittance to colleges and universities, and often a prerequisite for scholarships. The closest testing centers to my students were an hour away. I remember waking up at 5:30 a.m. on a Saturday to drive one of my students from his house to a testing center, and then to pick him up again after he finished to drive him home. Here, I explore a possible correlation between the locations of SAT testing sites and assorted demographic and social determinant factors."),
                                h3(strong('Key Data Questions')),
-                               h4('Is there a difference in demographic groups for high schools that are:'),
-                               h4(tags$ul(tags$li("Rural vs. Urban"),tags$li("Testing Sites vs. Non Testing Sites"))),
-                               h4('Is there a statistically significant difference in demographic groups, school quality, or SAT scores for high schools that are testing sites vs. those that are not?
-                                  '),
                                h3(strong('Data Sources')),
-                               h5(em('*all data is from 2018')),
-                               h4(tags$ul(
-                                 tags$li(locations <- a("SAT Testing Locations", href="https://collegereadiness.collegeboard.org/pdf/sat-domestic-code-list.pdf", target="_blank")),
-                                 tags$li(report_card <- a("SC Report Cards", href="https://screportcards.com/", target="_blank")),
-                                 tags$li(sat_scores <- a("SAT Scores by School", href="https://ed.sc.gov/data/test-scores/national-assessments/sat/", target="_blank")),
-                                 tags$li(enrollment <- a("School Enrollment by Gender and Race", href="https://ed.sc.gov/data/other/student-counts/active-student-headcounts/", target="_blank")),
-                                 tags$li(frl_rate <- a("School Poverty Index", href="https://screportcards.com/", target="_blank"))
-                               )
-                               ),
                                width = 12),
                   mainPanel()
                   )
@@ -75,13 +61,11 @@ dashboardPage(
                   sidebarPanel(
                     fluidRow(h1('test')),
                     fluidRow(h1('blah blah blah')),
-                    selectInput("pickSubject", label = h5("Tested subject:"), 
-                                choices = subjects, 
-                                selected = 1),
-                    selectInput("pickGrade", label = h5("Student grade level:"), 
+                    selectInput("pickGrade", label = "Student grade level:", 
                                 choices = grades, 
                                 selected = 'All Grades'),
-                    selectInput("pickSubgroup", label = h5("Primary student subgroup:"), 
+                   uiOutput("filterSubject"), 
+                    selectInput("pickSubgroup", label = "Primary student subgroup:", 
                                 choices = subgroups, 
                                 selected = 1),
                     width =6
@@ -95,14 +79,42 @@ dashboardPage(
               fluidPage(
                 sidebarLayout(
                   fluidRow(
-                    sidebarPanel(h4('Review or download all South Carolina high school data below.'), downloadButton("downloadData", "Download"),
-                                 width = 12)
-                  ),
+                    sidebarPanel(
+                      h2('Select Two Schools to Compare'),
+                      selectInput("selectSchool1",
+                                  label = "School 1",
+                                  choices = schools,
+                                  selected = 'All MNPS'),
+                      selectInput("selectSchool2",
+                                  label = "School 2",
+                                  choices = schools,
+                                  selected = '1'),
+                      width = 12
+                  )),
                   fluidRow(
-                    mainPanel(dataTableOutput("school_data"),width = 12)
+                             column(width = 6, align = "center",
+                                    box(
+                                      title = "School 1 Data", status = "primary", solidHeader = TRUE, height = 580,
+                                      width=NULL,
+                                      fluidRow(infoBoxOutput("school_1_ela", width = 12)),
+                                      fluidRow(infoBoxOutput("school_1_math", width = 12))
+                                      
+                                    )
+                             ),
+                             column(width = 6, align = "center",
+                                    box(
+                                      title = "School 2 Data", status = "primary", solidHeader = TRUE, height = 580,
+                                      width=NULL, 
+                                      fluidRow(infoBoxOutput("school_2_ela", width = 12)),
+                                      fluidRow(infoBoxOutput("school_2_math", width = 12))
+                                    )
+                             )
+                           )
+                    )
                   )
-                )
-              )
+                  
+                
+              
               
       ),
       tabItem(tabName = "contact",

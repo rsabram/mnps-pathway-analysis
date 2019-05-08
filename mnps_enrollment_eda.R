@@ -432,35 +432,209 @@ change_8_to_9 <- df %>%
 # "integer", "numeric", "character", "character",
 # "Date", "integer", "logical")
 
-size_2010 <- read_csv('./data/data_2010.csv', stringsAsFactors = FALSE) %>% 
-  filter(district == 190)
-size_2011 <- read_csv('./data/data_2011.csv')%>% 
-  filter(district == 190)
-size_2012 <- read_csv('./data/data_2012.csv')%>% 
-  filter(district == 190)
-size_2013 <- read_csv('./data/data_2013.csv') %>%  
-  filter(DISTRICT == '00190')
-size_2014 <- read_csv('./data/data_2014.csv')%>% 
-  filter(district == 190)
-size_2015 <- read_csv('./data/data_2015.csv')%>% 
-  filter(DISTRICT == 190)
-size_2016 <- read_csv('./data/data_2016.csv')%>% 
-  filter(DISTRICT == 190)
-size_2017 <- read_csv('./data/data_2017.csv')%>% 
-  filter(DISTRICT_ID == 190)
+# size_2010 <- read_csv('./data/data_2010.csv')  %>% 
+#   filter(district == 190)
+# size_2011 <- read_csv('./data/data_2011.csv')%>% 
+#   filter(district == 190)
+# size_2012 <- read_csv('./data/data_2012.csv')%>% 
+#   filter(district == 190)
+# size_2013 <- read_csv('./data/data_2013.csv') %>%  
+#   filter(DISTRICT == '00190')
+# size_2014 <- read_csv('./data/data_2014.csv')%>% 
+#   filter(district == 190) %>% 
+#   filter(SCHOOL_NAME != 'All Schools')
+# size_2015 <- read_csv('./data/data_2015.csv')%>% 
+#   filter(DISTRICT == 190) %>% 
+#   filter(SCHOOL_NAME != 'All Schools')
+# size_2016 <- read_csv('./data/data_2016.csv')%>% 
+#   filter(DISTRICT == 190) %>% 
+#   filter(SCHOOL_NAME != 'All Schools')
+# size_2017 <- read_csv('./data/data_2017.csv')%>% 
+#   filter(DISTRICT_ID == 190) %>% 
+#   filter(SCHOOL_NAME != 'All Schools')
 size_2018 <- read_csv('./data/data_2018.csv')%>% 
   filter(DISTRICT_ID == 190)
 
-size_2010 %>% 
-  summarize(
-    sum(Total),
-    sum(White),
-    sum(`African American`),
-    sum(Hispanic),
-    sum(Asian),
-    sum(`Native American`)
-  )
 
-data.frame(apply(size_2010, 2:10, as.numeric))
-  
-  
+ix <- 9:15
+# size_2010[ix] <- lapply(size_2010[ix], as.numeric) 
+# size_2011[ix] <- lapply(size_2011[ix], as.numeric) 
+# size_2012[ix] <- lapply(size_2012[ix], as.numeric) 
+# size_2013[ix] <- lapply(size_2013[ix], as.numeric) 
+# size_2014[ix] <- lapply(size_2014[ix], as.numeric) 
+# size_2015[ix] <- lapply(size_2015[ix], as.numeric) 
+# size_2016[ix] <- lapply(size_2016[ix], as.numeric) 
+# size_2017[ix] <- lapply(size_2017[ix], as.numeric) 
+size_2018[ix] <- lapply(size_2018[ix], as.numeric) 
+
+# total_2010 <- size_2010 %>% 
+#   summarize(
+#     sum(Total, na.rm = TRUE),
+#     sum(White, na.rm = TRUE),
+#     sum(`African American`, na.rm = TRUE),
+#     sum(Hispanic, na.rm = TRUE),
+#     sum(Asian, na.rm = TRUE),
+#     sum(`Native American`, na.rm = TRUE)
+#   ) %>% 
+#   mutate(year = 2010) %>% 
+#   mutate('Hawaiian or Pacific Islander' = 0)
+# 
+# total_2011 <- size_2011 %>% 
+#   summarize(
+#     sum(Total, na.rm = TRUE),
+#     sum(White, na.rm = TRUE),
+#     sum(`African American`, na.rm = TRUE),
+#     sum(Hispanic, na.rm = TRUE),
+#     sum(Asian, na.rm = TRUE),
+#     sum(`Native American`, na.rm = TRUE)
+#   ) %>% 
+#   mutate(year = 2011)%>% 
+#   mutate('Hawaiian or Pacific Islander' = 0)
+# 
+# total_2012 <- size_2012 %>% 
+#   summarize(
+#     sum(Total, na.rm = TRUE),
+#     sum(White, na.rm = TRUE),
+#     sum(`African American`, na.rm = TRUE),
+#     sum(Hispanic, na.rm = TRUE),
+#     sum(Asian, na.rm = TRUE),
+#     sum(`Native American`, na.rm = TRUE)
+#   ) %>% 
+#   mutate(year = 2012)%>% 
+#   mutate('Hawaiian or Pacific Islander' = 0)
+# 
+# total_2013 <- size_2013 %>% 
+#   summarize(
+#     sum(Total, na.rm = TRUE),
+#     sum(White, na.rm = TRUE),
+#     sum(`African American`, na.rm = TRUE),
+#     sum(Hispanic, na.rm = TRUE),
+#     sum(Asian, na.rm = TRUE),
+#     sum(`Native American`, na.rm = TRUE)
+#   ) %>% 
+#   mutate(year = 2013)%>% 
+#   mutate('Hawaiian or Pacific Islander' = 0)
+# 
+# total_2014 <- size_2014 %>% 
+#   summarize(
+#     sum(Total, na.rm = TRUE),
+#     sum(White, na.rm = TRUE),
+#     sum(`African_American`, na.rm = TRUE),
+#     sum(Hispanic, na.rm = TRUE),
+#     sum(Asian, na.rm = TRUE),
+#     sum(`Native_American`, na.rm = TRUE)
+#   ) %>% 
+#   mutate(year = 2014)%>% 
+#   mutate('Hawaiian or Pacific Islander' = 0)
+# 
+# total_2015 <- size_2015 %>% 
+#   summarize(
+#     sum(TOTAL, na.rm = TRUE),
+#     sum(WHITE, na.rm = TRUE),
+#     sum(`AFRICAN_AMERICAN`, na.rm = TRUE),
+#     sum(HISPANIC, na.rm = TRUE),
+#     sum(ASIAN, na.rm = TRUE),
+#     sum(`NATIVE_AMERICAN`, na.rm = TRUE),
+#     sum(HAWAIIAN_PACISLD, na.rm = TRUE)
+#   ) %>% 
+#   mutate(year = 2015)
+# 
+# total_2016 <- size_2016 %>% 
+#   summarize(
+#     sum(TOTAL, na.rm = TRUE),
+#     sum(WHITE, na.rm = TRUE),
+#     sum(`AFRICAN_AMERICAN`, na.rm = TRUE),
+#     sum(HISPANIC, na.rm = TRUE),
+#     sum(ASIAN, na.rm = TRUE),
+#     sum(`NATIVE_AMERICAN`, na.rm = TRUE),
+#     sum(HAWAIIAN_PACISLD, na.rm = TRUE)
+#   ) %>% 
+#   mutate(year = 2016)
+# 
+# total_2017 <- size_2017 %>% 
+#   summarize(
+#     sum(TOTAL, na.rm = TRUE),
+#     sum(WHITE, na.rm = TRUE),
+#     sum(`AFRICAN_AMERICAN`, na.rm = TRUE),
+#     sum(HISPANIC, na.rm = TRUE),
+#     sum(ASIAN, na.rm = TRUE),
+#     sum(`NATIVE_AMERICAN`, na.rm = TRUE),
+#     sum(HAWAIIAN_PACISLD, na.rm = TRUE)
+#   ) %>% 
+#   mutate(year = 2017)
+# 
+# total_2018 <- size_2018 %>% 
+#   summarize(
+#     sum(TOTAL, na.rm = TRUE),
+#     sum(WHITE, na.rm = TRUE),
+#     sum(`AFRICAN_AMERICAN`, na.rm = TRUE),
+#     sum(HISPANIC, na.rm = TRUE),
+#     sum(ASIAN, na.rm = TRUE),
+#     sum(`NATIVE_AMERICAN`, na.rm = TRUE),
+#     sum(HAWAIIAN_PACISLD, na.rm = TRUE)
+#   ) %>% 
+#   mutate(year = 2018)
+
+# colnames(total_2010) <- c('Total','White','African American','Hispanic','Asian','Native American','Year','Hawaiian/Pacific Islander')
+# colnames(total_2011) <- c('Total','White','African American','Hispanic','Asian','Native American','Year','Hawaiian/Pacific Islander')
+# colnames(total_2012) <- c('Total','White','African American','Hispanic','Asian','Native American','Year','Hawaiian/Pacific Islander')
+# colnames(total_2013) <- c('Total','White','African American','Hispanic','Asian','Native American','Year','Hawaiian/Pacific Islander')
+# colnames(total_2014) <- c('Total','White','African American','Hispanic','Asian','Native American','Year','Hawaiian/Pacific Islander')
+# 
+# colnames(total_2015) <- c('Total','White','African American','Hispanic','Asian','Native American','Hawaiian/Pacific Islander','Year')
+# colnames(total_2016) <- c('Total','White','African American','Hispanic','Asian','Native American','Hawaiian/Pacific Islander','Year')
+# colnames(total_2017) <- c('Total','White','African American','Hispanic','Asian','Native American','Hawaiian/Pacific Islander','Year')
+# colnames(total_2018) <- c('Total','White','African American','Hispanic','Asian','Native American','Hawaiian/Pacific Islander','Year')
+
+#all_years <- rbind(total_2010, total_2011, total_2012, total_2013, total_2014, total_2015, total_2016, total_2017, total_2018)
+
+#write_csv(all_years,'all_years.csv')
+
+size_2018<-size_2018[3:29]
+
+size_2018 <- size_2018 %>% 
+  select(-AVERAGE_DAILY_MEMBERSHIP)
+
+colnames(size_2018) <- c("School ID","School Name","Grades Served","African American","% African American",'Asian','% Asian','Economically Disadvantaged','% Economically Disadvantaged','Female','% Female','Hawaiian/PI','% Hawaiian/PI','Hispanic','% Hispanic','ELL','% ELL','Male','% Male','Native American','% Native American','Students with Disabilites','% Students with Disabilites','Total','White','% White')
+
+total_2018 <- size_2018 %>% 
+  summarize(
+    sum(Total, na.rm = TRUE),
+    sum(White, na.rm = TRUE),
+    sum(`African American`, na.rm = TRUE),
+    sum(Hispanic, na.rm = TRUE),
+    sum(Asian, na.rm = TRUE),
+    sum(`Native American`, na.rm = TRUE),
+    sum(`Hawaiian/PI`, na.rm = TRUE), 
+    sum(`Male`, na.rm = TRUE),
+    sum(`Female`, na.rm = TRUE),
+    sum(`Economically Disadvantaged`, na.rm = TRUE),
+    sum(`ELL`, na.rm = TRUE),
+    sum(`Students with Disabilites`, na.rm = TRUE),
+  ) 
+
+colnames(total_2018) <- c('Total','White','African American','Hispanic','Asian','Native American','Hawaiian/PI','Male','Female','Economically Disadvantaged','ELL','Students with Disabilites')
+
+total_2018 <- data.frame(lapply(total_2018, function(x) as.numeric(as.character(x))))
+
+colnames(total_2018) <- c('Total','White','African American','Hispanic','Asian','Native American','Hawaiian/PI','Male','Female','Economically Disadvantaged','ELL','Students with Disabilites')
+
+total_2018 <- total_2018 %>% 
+  mutate('% White'= (White / Total)*100) %>% 
+  mutate('% African American'= (`African American`/ Total)* 100) %>% 
+  mutate('% Hispanic'= (Hispanic / Total) * 100) %>%
+  mutate('% Asian'= (Asian / Total) * 100) %>%
+  mutate('% Native American'= (`Native American` / Total) * 100) %>%
+  mutate('% Hawaiian/PI'= (`Hawaiian/PI` / Total) * 100) %>% 
+  mutate('% Male'= (Male / Total) * 100) %>%
+  mutate('% Female'= (Female / Total) * 100) %>%
+  mutate('% Economically Disadvantaged'= (`Economically Disadvantaged`/ Total) * 100) %>%
+  mutate('% ELL'= (ELL / Total) * 100) %>%
+  mutate('% Students with Disabilites'= (`Students with Disabilites` / Total) * 100) %>% 
+  mutate('School ID' = 'All MNPS') %>% 
+  mutate('School Name' = 'All MNPS') %>% 
+  mutate('Grades Served' = 'All MNPS') 
+
+all_2018 <- rbind(size_2018, total_2018)
+
+#write_csv(all_2018, 'all_2018.csv')

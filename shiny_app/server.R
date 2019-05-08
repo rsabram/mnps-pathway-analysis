@@ -3,7 +3,7 @@ shinyServer(function(input, output) {
 
   output$search <- renderDataTable(
     mnps_tcap %>% 
-      filter(Subject %in% input$pickSubject) %>% 
+      filter(Subject %in% input$filterSubject) %>% 
       filter(`Grade Level`%in% input$pickGrade) %>% 
       filter(Subgroup %in% input$pickSubgroup) %>% 
       arrange(desc(`Percent Mastered`)) %>% 
@@ -12,16 +12,47 @@ shinyServer(function(input, output) {
                   lengthMenu = c(5,10, 15, 20)
   ))
   
-  output$downloadData <- downloadHandler(
-    filename = function() {
-      paste("data-", input$pickSubject, ".csv", sep="")
-    },
-    content = function(file) {
-      write.csv(mnps_tcap, file)
-    }
-  )
+  output$filterSubject <- renderUI({
+      selectInput("filterSubject", "Tested Subject:", choices = mnps_tcap[mnps_tcap$'Grade Level' == input$pickGrade,"Subject"], selected = 1)
+  })
+
+
+  output$school_1_ela <- renderInfoBox({
+    
+    compare_info %>% 
+      filter('School Name.x' == input$selectSchool1) %>% 
+      filter('Grade Level' == 'All Grades') %>% 
+      filter('Subgroup' == 'All Students') %>% 
+      filter('Subject' == 'ELA') %>% 
+      select(`Percent Mastered`)
+    
+    infoBox(
+      title = "Mean Points For",
+      value = as.character(compare_info) ,
+      icon = icon("bolt"),
+      color = "yellow",
+      width = 12
+    )
+  })
+  
+  output$school_1_math <- renderInfoBox({
+    math_1 <- team_1_df()[1,3]
+    infoBox(
+      title = "Mean Points Against",
+      value = as.character(points_against) ,
+      icon = icon("compress"),
+      color = "red",
+      width = 12
+    )
+  })
   
   
+  
+  
+  
+  
+  
+  #########
   
   output$testing_average <- renderValueBox(valueBox(
     testing_site_t_tests %>% 

@@ -345,3 +345,35 @@ test$Cluster[is.na(test$Cluster)] <- 'Non-Zoned'
 
 table(mnps_tcap_eda$subject)
 table(mnps_tcap_eda$subgroup)
+
+all_2018 <- read_csv('./data/all_2018.csv')
+
+all_2018$`School ID` <- as.numeric(all_2018$`School ID`)
+
+all <- left_join(all_2018, test, by = c('School ID' = 'School ID')) %>% 
+  select(-`Grades Served`, -`School Name.y`)
+
+all_ms <- all %>% 
+  filter(Subgroup == "All Students") %>% 
+  filter(`Grade Level` == 'All Grades') %>% 
+  filter(Subject != "Science" & Subject != "Biology I") %>% 
+  filter(`School Level` == 'Middle School' & (Subject == 'Math' | Subject == 'ELA'))
+
+all_other <- all %>% 
+  filter(Subgroup == "All Students") %>% 
+  filter(`Grade Level` == 'All Grades') %>% 
+  filter(Subject != "Science" & Subject != "Biology I") %>% 
+  filter(`School Level` != 'Middle School')
+
+all_other$Subject <- mapply(gsub, pattern = 'Integrated Math I', replacement = 'Math', all_other$Subject)
+all_other$Subject <- mapply(gsub, pattern = 'English I', replacement = 'ELA', all_other$Subject)
+
+scored_pathways$ela_elem <- mapply(gsub, pattern = '\\*{2}', replacement = 5, scored_pathways$ela_elem)
+
+all_scored <- rbind(all_ms, all_other)
+
+write_rds(all, 'school_data_compare.RDS')
+
+
+#fix wonky charter / non traditional ones
+
