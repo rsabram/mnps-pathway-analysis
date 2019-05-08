@@ -38,7 +38,7 @@ pathways$hs_feeder_code <- as.numeric(pathways$hs_feeder_code)
 
 # clean assessment data
 
-table(mnps_tcap_2018$subject)
+
   
 limited_ms_tcap <- mnps_tcap_2018 %>% 
   filter(test == 'TNReady' | test == 'EOC') %>%
@@ -84,11 +84,13 @@ scored_pathways <- left_join(merge2, limited_hs_tcap, by = c("hs_feeder_code" = 
 scored_pathways <- scored_pathways %>% 
   select('SCHOOL_NO', 'SCHOOL_NAME', 'ela_elem','math_elem','ms_feeder_code', 'ms_feeder_name','ela_ms', 'math_ms', 'hs_feeder_code','hs_feeder_name','ela_hs','math_hs','cluster')
 
-write_csv(scored_pathways, 'scored_pathways.csv')
+#write_csv(scored_pathways, 'scored_pathways.csv')
 
 ## In these files, suppression also occurs where any individual proficiency level 
 ## is less than 5% or greater than 95% at the school level 
 ## (this is denoted by two asterisks**).
+
+scored_pathways <- read_csv('./data/scored_pathways.csv')
 
 scored_pathways$ela_elem <- mapply(gsub, pattern = '\\*{2}', replacement = 5, scored_pathways$ela_elem)
 scored_pathways$ela_ms <- mapply(gsub, pattern = '\\*{2}', replacement = 5, scored_pathways$ela_ms)
@@ -177,27 +179,38 @@ colnames(averages) <- c('cluster',
   'median_math_ms_to_hs'
 ) 
 
-reshape_medians <- gather(averages, outcome, value, median_ela_elem:median_ela_hs) %>% 
+reshape_medians_ela <- gather(averages, outcome, value, median_ela_elem:median_ela_hs) %>% 
   select(cluster, outcome, value) %>% 
   filter(cluster != 'Stratford') %>% 
-  mutate(outcome = factor(outcome, levels = c("median_ela_elem", "median_ela_ms","median_ela_hs")))
+  mutate(outcome = factor(outcome, levels = c("median_ela_elem", "median_ela_ms","median_ela_hs"))) %>% 
+  mutate('Subject' = 'ELA') %>% 
+  mutate('GraphType' = 1)
 
 reshape_medians_math <- gather(averages, outcome, value, median_math_elem:median_math_hs) %>% 
   select(cluster, outcome, value) %>% 
   filter(cluster != 'Stratford') %>% 
-  mutate(outcome = factor(outcome, levels = c("median_math_elem", "median_math_ms","median_math_hs")))
+  mutate(outcome = factor(outcome, levels = c("median_math_elem", "median_math_ms","median_math_hs"))) %>% 
+  mutate('Subject' = 'Math') %>% 
+  mutate('GraphType' = 1)
 
 
 reshape_change_ela <- gather(averages, outcome, value, median_ela_elem_to_ms:median_ela_ms_to_hs) %>% 
   select(cluster, outcome, value) %>% 
   filter(cluster != 'Stratford') %>% 
-  mutate(outcome = factor(outcome, levels = c("median_ela_elem_to_ms", "median_ela_ms_to_hs")))
+  mutate(outcome = factor(outcome, levels = c("median_ela_elem_to_ms", "median_ela_ms_to_hs"))) %>% 
+  mutate('Subject' = 'ELA') %>% 
+  mutate('GraphType' = 2)
 
 reshape_change_math <- gather(averages, outcome, value, median_math_elem_to_ms:median_math_ms_to_hs) %>% 
   select(cluster, outcome, value) %>% 
   filter(cluster != 'Stratford') %>% 
-  mutate(outcome = factor(outcome, levels = c("median_math_elem_to_ms", "median_math_ms_to_hs")))
+  mutate(outcome = factor(outcome, levels = c("median_math_elem_to_ms", "median_math_ms_to_hs"))) %>% 
+  mutate('Subject' = 'Math') %>% 
+  mutate('GraphType' = 2)
 
+reshaped <- rbind(reshape_medians_ela, reshape_medians_math, reshape_change_ela, reshape_change_math)
+
+write_rds(reshaped, "./cluster_graphs.RDS")
 
 reshape_medians %>% 
   ggplot(
@@ -359,20 +372,51 @@ all_ms <- all %>%
   filter(Subject != "Science" & Subject != "Biology I") %>% 
   filter(`School Level` == 'Middle School' & (Subject == 'Math' | Subject == 'ELA'))
 
+all_high <- all %>% 
+  filter(Subgroup == "All Students") %>% 
+  filter(`Grade Level` == 'All Grades') %>% 
+  filter(Subject != "Science" & Subject != "Biology I") %>% 
+  filter(`School Level` == 'High School')
+
+all_elem <- all %>% 
+  filter(Subgroup == "All Students") %>% 
+  filter(`Grade Level` == 'All Grades') %>% 
+  filter(Subject != "Science" & Subject != "Biology I") %>% 
+  filter(`School Level` == 'Elementary School')
+
 all_other <- all %>% 
   filter(Subgroup == "All Students") %>% 
   filter(`Grade Level` == 'All Grades') %>% 
   filter(Subject != "Science" & Subject != "Biology I") %>% 
-  filter(`School Level` != 'Middle School')
+  filter(`School Level` == 'Non-Traditional' | `School Level` == 'Charter' )
 
-all_other$Subject <- mapply(gsub, pattern = 'Integrated Math I', replacement = 'Math', all_other$Subject)
-all_other$Subject <- mapply(gsub, pattern = 'English I', replacement = 'ELA', all_other$Subject)
+all_other <- all_other %>% 
+  filter(!(Subject == 'Integrated Math I' & `Highest Grade` == 'Grade 8')) %>% 
+  filter(!(Subject == 'English I' & `Highest Grade` == 'Grade 9')) %>% 
+  filter(!(Subject == 'Integrated Math I' & `Highest Grade` == 'Grade 9')) %>% 
+  filter(!(Subject == 'Integrated Math I' & `School ID` == 3)) %>% 
+  filter(!(Subject == 'English I' & `School ID` == 3))
 
-scored_pathways$ela_elem <- mapply(gsub, pattern = '\\*{2}', replacement = 5, scored_pathways$ela_elem)
+all_mnps <- all %>% 
+  filter(`School Name.x` == 'All MNPS')
 
-all_scored <- rbind(all_ms, all_other)
 
-write_rds(all, 'school_data_compare.RDS')
+
+table(all_other$`School Name.x`)
+
+all_high$Subject <- mapply(gsub, pattern = 'Integrated Math I', replacement = 'Math', all_high$Subject)
+all_high$Subject <- mapply(gsub, pattern = 'English I', replacement = 'ELA', all_high$Subject)
+
+
+
+all_scored <- rbind(all_ms, all_high, all_elem, all_other, all_mnps)
+
+all_scored$Subject <- mapply(gsub, pattern = 'Integrated Math I', replacement = 'Math', all_scored$Subject)
+all_scored$Subject <- mapply(gsub, pattern = 'English I', replacement = 'ELA', all_scored$Subject)
+
+
+read_in <- read_csv('./data/all_scored.csv')
+write_rds(read_in, 'school_data_compare.RDS')
 
 
 #fix wonky charter / non traditional ones

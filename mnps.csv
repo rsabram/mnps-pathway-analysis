@@ -1,0 +1,319 @@
+SCHOOL,SCHOOL NAME,GENDER,ENROLLMENT
+1,A. Z. Kelley Elementary,M,366
+1,A. Z. Kelley Elementary,F,399
+3,MNPS Virtual School,M,40
+3,MNPS Virtual School,F,58
+5,Alex Green Elementary,M,137
+5,Alex Green Elementary,F,132
+10,Amqui Elementary,M,254
+10,Amqui Elementary,F,225
+15,Andrew Jackson Elementary,M,245
+15,Andrew Jackson Elementary,F,254
+20,Antioch High School,M,1120
+20,Antioch High School,F,926
+23,Antioch Middle,M,400
+23,Antioch Middle,F,378
+25,Apollo Middle,M,439
+25,Apollo Middle,F,391
+35,Moses McKissack Middle,M,170
+35,Moses McKissack Middle,F,160
+40,Bellevue Middle,M,324
+40,Bellevue Middle,F,309
+45,Bellshire Elementary,M,157
+45,Bellshire Elementary,F,161
+53,Nashville Big Picture High School,M,54
+53,Nashville Big Picture High School,F,84
+70,Buena Vista Elementary,M,124
+70,Buena Vista Elementary,F,127
+77,Cane Ridge High School,M,964
+77,Cane Ridge High School,F,875
+80,Caldwell Elementary,M,130
+80,Caldwell Elementary,F,104
+82,Cane Ridge Elementary,M,516
+82,Cane Ridge Elementary,F,502
+105,Chadwell Elementary,M,155
+105,Chadwell Elementary,F,145
+110,Charlotte Park Elementary,M,209
+110,Charlotte Park Elementary,F,193
+120,Cockrill Elementary,M,144
+120,Cockrill Elementary,F,158
+130,Cole Elementary,M,363
+130,Cole Elementary,F,357
+140,Hattie Cotton Elementary,M,132
+140,Hattie Cotton Elementary,F,130
+145,Crieve Hall Elementary,M,225
+145,Crieve Hall Elementary,F,220
+148,Croft Middle,M,356
+148,Croft Middle,F,319
+150,Cumberland Elementary,M,176
+150,Cumberland Elementary,F,175
+160,Dan Mills Elementary,M,260
+160,Dan Mills Elementary,F,242
+165,Dodson Elementary,M,190
+165,Dodson Elementary,F,218
+175,Donelson Middle,M,390
+175,Donelson Middle,F,371
+180,DuPont Elementary,M,177
+180,DuPont Elementary,F,183
+185,DuPont Tyler Middle,M,320
+185,DuPont Tyler Middle,F,281
+190,DuPont Hadley Middle,M,347
+190,DuPont Hadley Middle,F,311
+195,Eakin Elementary,M,270
+195,Eakin Elementary,F,301
+203,East Nashville Magnet High School,M,333
+203,East Nashville Magnet High School,F,415
+208,Thomas A. Edison Elementary,M,382
+208,Thomas A. Edison Elementary,F,317
+220,Fall-Hamilton Elementary,M,138
+220,Fall-Hamilton Elementary,F,116
+235,Gateway Elementary,M,140
+235,Gateway Elementary,F,142
+240,Glencliff Elementary,M,249
+240,Glencliff Elementary,F,240
+245,Glencliff High School,M,664
+245,Glencliff High School,F,588
+250,Glendale Elementary,M,215
+250,Glendale Elementary,F,190
+255,Glengarry Elementary,M,189
+255,Glengarry Elementary,F,180
+260,Glenn Elementary,M,70
+260,Glenn Elementary,F,86
+265,Glenview Elementary,M,333
+265,Glenview Elementary,F,269
+270,Goodlettsville Elementary,M,157
+270,Goodlettsville Elementary,F,161
+275,Goodlettsville Middle,M,292
+275,Goodlettsville Middle,F,279
+280,Gower Elementary,M,314
+280,Gower Elementary,F,285
+285,Gra-Mar Middle,M,181
+285,Gra-Mar Middle,F,161
+290,Granbery Elementary,M,377
+290,Granbery Elementary,F,347
+295,H. G. Hill Middle,M,344
+295,H. G. Hill Middle,F,313
+296,East Nashville Middle,M,200
+296,East Nashville Middle,F,234
+300,Harpeth Valley Elementary,M,394
+300,Harpeth Valley Elementary,F,348
+302,Harris-Hillman Special Education,M,261
+302,Harris-Hillman Special Education,F,147
+305,Haynes Middle,M,120
+305,Haynes Middle,F,133
+310,Haywood Elementary,M,343
+310,Haywood Elementary,F,302
+315,Head Middle,M,298
+315,Head Middle,F,284
+318,Henry C. Maxwell Elementary,M,322
+318,Henry C. Maxwell Elementary,F,274
+320,Hermitage Elementary,M,149
+320,Hermitage Elementary,F,150
+327,Hickman Elementary,M,256
+327,Hickman Elementary,F,217
+330,Meigs Middle,M,319
+330,Meigs Middle,F,367
+335,Hillsboro High,M,604
+335,Hillsboro High,F,607
+340,Hillwood High,M,611
+340,Hillwood High,F,492
+350,Hull-Jackson Elementary,M,153
+350,Hull-Jackson Elementary,F,152
+355,Hume - Fogg High,M,373
+355,Hume - Fogg High,F,521
+358,Hunters Lane High,M,727
+358,Hunters Lane High,F,686
+360,Inglewood Elementary,M,106
+360,Inglewood Elementary,F,88
+365,Isaac Litton Middle,M,254
+365,Isaac Litton Middle,F,246
+370,J. E. Moss Elementary,M,381
+370,J. E. Moss Elementary,F,394
+375,Jere Baxter Middle,M,155
+375,Jere Baxter Middle,F,138
+380,Joelton Elementary,M,120
+380,Joelton Elementary,F,119
+385,Joelton Middle,M,167
+385,Joelton Middle,F,156
+386,John Early Middle,M,178
+386,John Early Middle,F,177
+387,Jones Elementary,M,149
+387,Jones Elementary,F,140
+390,John B. Whitsitt Elementary,M,197
+390,John B. Whitsitt Elementary,F,216
+393,John F. Kennedy Middle,M,397
+393,John F. Kennedy Middle,F,385
+395,John Overton High,M,1112
+395,John Overton High,F,918
+415,Julia Green Elementary,M,232
+415,Julia Green Elementary,F,195
+420,Robert E. Lilliard Elementary,M,149
+420,Robert E. Lilliard Elementary,F,150
+430,Lakeview Elementary,M,288
+430,Lakeview Elementary,F,272
+435,Lockeland Elementary,M,160
+435,Lockeland Elementary,F,143
+437,Middle College High,M,33
+437,Middle College High,F,66
+443,Cora Howe School,M,83
+443,Cora Howe School,F,21
+445,Maplewood High,M,440
+445,Maplewood High,F,427
+450,Margaret Allen Middle,M,213
+450,Margaret Allen Middle,F,231
+456,Martin Luther King Jr School,M,583
+456,Martin Luther King Jr School,F,645
+465,McGavock Elementary,M,128
+465,McGavock Elementary,F,121
+470,McGavock High,M,1227
+470,McGavock High,F,1196
+480,McMurray Middle,M,415
+480,McMurray Middle,F,388
+490,John Trotwood Moore Middle,M,336
+490,John Trotwood Moore Middle,F,334
+493,Mt. View Elementary,M,300
+493,Mt. View Elementary,F,321
+505,Murrell School,M,59
+505,Murrell School,F,9
+510,Napier Elementary,M,142
+510,Napier Elementary,F,113
+512,Nashville School Of The Arts,M,167
+512,Nashville School Of The Arts,F,400
+515,Neely's Bend Elementary,M,171
+515,Neely's Bend Elementary,F,147
+525,Norman Binkley Elementary,M,261
+525,Norman Binkley Elementary,F,265
+535,Old Center Elementary,M,144
+535,Old Center Elementary,F,171
+538,William Henry Oliver Middle,M,449
+538,William Henry Oliver Middle,F,434
+540,Paragon Mills Elementary,M,266
+540,Paragon Mills Elementary,F,281
+545,Park Avenue Elementary,M,189
+545,Park Avenue Elementary,F,187
+555,Pearl-Cohn High,M,360
+555,Pearl-Cohn High,F,318
+565,Pennington Elementary,M,143
+565,Pennington Elementary,F,128
+570,Percy Priest Elementary,M,258
+570,Percy Priest Elementary,F,277
+595,Rose Park Middle,M,237
+595,Rose Park Middle,F,196
+600,Rosebank Elementary,M,126
+600,Rosebank Elementary,F,101
+607,Ruby Major Elementary,M,277
+607,Ruby Major Elementary,F,250
+608,May Werthan Shayne Elementary School,M,370
+608,May Werthan Shayne Elementary School,F,351
+610,Shwab Elementary,M,143
+610,Shwab Elementary,F,112
+612,The Academy at Opry Mills,M,26
+612,The Academy at Opry Mills,F,25
+614,The Academy at Old Cockrill,M,35
+614,The Academy at Old Cockrill,F,31
+615,Stanford Elementary,M,148
+615,Stanford Elementary,F,135
+618,Robert Churchwell Elementary,M,171
+618,Robert Churchwell Elementary,F,155
+620,Stratford STEM Magnet School,M,582
+620,Stratford STEM Magnet School,F,524
+622,Madison Middle,M,308
+622,Madison Middle,F,259
+625,Stratton Elementary,M,243
+625,Stratton Elementary,F,257
+630,Sylvan Park Elementary,M,249
+630,Sylvan Park Elementary,F,209
+633,Thurgood Marshall Middle,M,466
+633,Thurgood Marshall Middle,F,450
+635,Tom Joy Elementary,M,201
+635,Tom Joy Elementary,F,178
+637,Tulip Grove Elementary,M,245
+637,Tulip Grove Elementary,F,236
+645,Tusculum Elementary,M,380
+645,Tusculum Elementary,F,335
+650,Two Rivers Middle,M,193
+650,Two Rivers Middle,F,221
+655,Una Elementary,M,386
+655,Una Elementary,F,369
+670,Carter-Lawrence Elementary,M,143
+670,Carter-Lawrence Elementary,F,133
+675,Warner Elementary,M,133
+675,Warner Elementary,F,137
+690,West End Middle,M,253
+690,West End Middle,F,235
+695,Westmeade Elementary,M,202
+695,Westmeade Elementary,F,203
+700,Creswell Middle School of the Arts,M,145
+700,Creswell Middle School of the Arts,F,269
+704,Whites Creek High,M,354
+704,Whites Creek High,F,331
+715,Wright Middle,M,390
+715,Wright Middle,F,330
+720,The Academy at Hickory Hollow,M,38
+720,The Academy at Hickory Hollow,F,50
+740,Johnson Alternative Learning Center,M,82
+740,Johnson Alternative Learning Center,F,21
+745,The Cohn Learning Center,M,37
+745,The Cohn Learning Center,F,35
+750,Smith Springs Elementary School,M,269
+750,Smith Springs Elementary School,F,270
+755,Waverly-Belmont Elementary School,M,220
+755,Waverly-Belmont Elementary School,F,252
+8001,Smithson Craighead Academy,M,89
+8001,Smithson Craighead Academy,F,96
+8002,KIPP Academy Nashville,M,180
+8002,KIPP Academy Nashville,F,183
+8003,Lead Academy,M,207
+8003,Lead Academy,F,208
+8004,New Vision Academy,M,92
+8004,New Vision Academy,F,113
+8005,Liberty Collegiate Academy,M,219
+8005,Liberty Collegiate Academy,F,241
+8006,STEM Prep Academy,M,261
+8006,STEM Prep Academy,F,263
+8008,Nashville Prep,M,205
+8008,Nashville Prep,F,179
+8009,East End Preparatory School,M,354
+8009,East End Preparatory School,F,396
+8010,Cameron College Preparatory,M,305
+8010,Cameron College Preparatory,F,321
+8011,KIPP Nashville Collegiate High School,M,161
+8011,KIPP Nashville Collegiate High School,F,172
+8012,Knowledge Academy,M,139
+8012,Knowledge Academy,F,153
+8013,LEAD Prep Southeast,M,308
+8013,LEAD Prep Southeast,F,308
+8042,KIPP Nashville College Prep,M,185
+8042,KIPP Nashville College Prep,F,158
+8044,Nashville Classical,M,188
+8044,Nashville Classical,F,189
+8045,Valor Flagship Academy,M,238
+8045,Valor Flagship Academy,F,247
+8046,Purpose Prep,M,164
+8046,Purpose Prep,F,177
+8048,Intrepid College Preparatory Charter School,M,246
+8048,Intrepid College Preparatory Charter School,F,246
+8050,Rocketship Nashville Northeast Elementary,M,222
+8050,Rocketship Nashville Northeast Elementary,F,196
+8055,Nashville Academy of Computer Science,M,262
+8055,Nashville Academy of Computer Science,F,145
+8060,Explore Community School,M,110
+8060,Explore Community School,F,117
+8065,Knowledge Academies High School,M,156
+8065,Knowledge Academies High School,F,133
+8070,Rocketship United,M,268
+8070,Rocketship United,F,262
+8075,STEM Prep High School,M,184
+8075,STEM Prep High School,F,193
+8080,Valor Voyager Academy,M,251
+8080,Valor Voyager Academy,F,238
+8085,KIPP Nashville College Prep Elementary,M,75
+8085,KIPP Nashville College Prep Elementary,F,62
+8090,Strive Collegiate Academy,M,135
+8090,Strive Collegiate Academy,F,120
+8095,KIPP Academy Nashville Elementary School,M,198
+8095,KIPP Academy Nashville Elementary School,F,207
+8100,RePublic High School,M,234
+8100,RePublic High School,F,250
+8105,KA @ The Crossings,M,93
+8105,KA @ The Crossings,F,107

@@ -11,6 +11,7 @@ dashboardPage(
       menuItem("Contact Me", tabName = "contact", icon = icon('at'))
     )),
   dashboardBody(
+    
     tabItems(
       tabItem(tabName = "overview",
               fluidPage(
@@ -32,26 +33,28 @@ dashboardPage(
                   # Add a sidebar panel around the text and inputs
                   fluidRow(
                     sidebarPanel(
-                      h2('Explore Trends for Urban/Rural School Sites'),
-                      h4('Select the population groups and variables you want to explore to visualize differences in the bar graph below.'),
-                      checkboxGroupInput("checkGroup", label = strong("School Groups"), 
-                                         choices = list("Rural, Not Testing Site"= "Rural, No Testing Sites", "Rural, Testing Site" = 'Rural, Testing Sites', "Urban, Not Testing Site" = "Urban, No Testing Sites", "Urban, Testing Site" = "Urban, Testing Sites"),
-                                         selected = list("Rural, No Testing Sites","Urban, Testing Sites")),
-                      selectInput("selectVar",
-                                  label = "Variables",
-                                  choices = list("Percentage of Students Receiving Free or Reduced Lunch" = "mean_pct_frl","Percentage of Seniors who Took SAT" = "mean_pct_tested", "Black Student Percentage" = "mean_pct_black", "White Student Percentage" = "mean_pct_white", "Male Student Percentage" = "mean_pct_male"),
+                      h2('Change by cluster'),
+                      h4('blah blah'),
+                      radioButtons("graphType", label = "Graph Type",
+                                   choices = list("Overall Mastery" = 1, "Change in Mastery" = 2), 
+                                   selected = 1),
+                      radioButtons("graphSubject", label = "Subject",
+                                   choices = list("ELA" = "ELA", "Math" = "Math"), 
+                                   selected = "ELA"),
+                      selectInput("graphCluster",
+                                  label = "Clusters",
+                                  choices = clusters,
                                   multiple = TRUE,
-                                  selected = list("mean_pct_frl","mean_pct_tested")),
+                                  selected = list("Pearl-Cohn","Hillsboro","Antioch","Cane Ridge","Hillwood","Glencliff","Whites Creek","Hunters Lane","Maplewood","McGavock","Overton")),
                       width = 10)
                   ),
                   # Add a main panel around the plot and table
                   fluidRow(mainPanel( 
-                    tabsetPanel(
-                      tabPanel("Plot", plotOutput("sites",height = 500, width = 950)), 
-                      tabPanel("Table", tableOutput("table"))
-                    )
+                    fluidRow(
+                      plotOutput("graphMastery",height = 500, width = 950))
                   )
-                  ))
+              )
+              )
               )
       ),
       
@@ -88,25 +91,40 @@ dashboardPage(
                       selectInput("selectSchool2",
                                   label = "School 2",
                                   choices = schools,
-                                  selected = '1'),
+                                  selected = 1),
                       width = 12
                   )),
                   fluidRow(
-                             column(width = 6, align = "center",
+                             column(width = 6, align = "left",
                                     box(
-                                      title = "School 1 Data", status = "primary", solidHeader = TRUE, height = 580,
+                                      title = "School 1 Data", status = "primary", solidHeader = TRUE, height = 1300,
                                       width=NULL,
-                                      fluidRow(infoBoxOutput("school_1_ela", width = 12)),
-                                      fluidRow(infoBoxOutput("school_1_math", width = 12))
-                                      
+                                      fluidRow(valueBoxOutput("school_1_ela", width = 12)),
+                                      fluidRow(infoBoxOutput("school_1_math", width = 12)),
+                                      fluidRow(infoBoxOutput("school_1_male", width = 12)),
+                                      fluidRow(infoBoxOutput("school_1_female", width = 12)),
+                                      fluidRow(infoBoxOutput("school_1_white", width = 12)),
+                                      fluidRow(infoBoxOutput("school_1_black", width = 12)),
+                                      fluidRow(infoBoxOutput("school_1_hispanic", width = 12)),
+                                      fluidRow(infoBoxOutput("school_1_iep", width = 12)),
+                                      fluidRow(infoBoxOutput("school_1_frl", width = 12)),
+                                      fluidRow(infoBoxOutput("school_1_ell", width = 12))
                                     )
                              ),
-                             column(width = 6, align = "center",
+                             column(width = 6, align = "left",
                                     box(
-                                      title = "School 2 Data", status = "primary", solidHeader = TRUE, height = 580,
+                                      title = "School 2 Data", status = "primary", solidHeader = TRUE, height = 1300,
                                       width=NULL, 
                                       fluidRow(infoBoxOutput("school_2_ela", width = 12)),
-                                      fluidRow(infoBoxOutput("school_2_math", width = 12))
+                                      fluidRow(infoBoxOutput("school_2_math", width = 12)),
+                                      fluidRow(infoBoxOutput("school_2_male", width = 12)),
+                                      fluidRow(infoBoxOutput("school_2_female", width = 12)),
+                                      fluidRow(infoBoxOutput("school_2_white", width = 12)),
+                                      fluidRow(infoBoxOutput("school_2_black", width = 12)),
+                                      fluidRow(infoBoxOutput("school_2_hispanic", width = 12)),
+                                      fluidRow(infoBoxOutput("school_2_iep", width = 12)),
+                                      fluidRow(infoBoxOutput("school_2_frl", width = 12)),
+                                      fluidRow(infoBoxOutput("school_2_ell", width = 12))
                                     )
                              )
                            )
