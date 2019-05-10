@@ -4,10 +4,10 @@ dashboardPage(
     title = "MNPS Pathway Analysis"),
   dashboardSidebar(
     sidebarMenu(
-      menuItem('Overview',tabName = "overview",icon = icon('bookmark')),
-      menuItem("School Comparisons", tabName = "data", icon = icon('balance-scale')),
+      #menuItem('Overview',tabName = "overview",icon = icon('bookmark')),
       menuItem("Cluster Performace", tabName = "pathways", icon = icon("chart-line")),
-      menuItem("Search For A School", tabName = "select_a_school", icon = icon("school")),
+      menuItem("School Comparisons", tabName = "data", icon = icon('balance-scale')),
+      menuItem("Find A School", tabName = "select_a_school", icon = icon("school")),
       menuItem("Contact Me", tabName = "contact", icon = icon('at'))
     )),
   dashboardBody(
@@ -33,10 +33,11 @@ dashboardPage(
                   # Add a sidebar panel around the text and inputs
                   fluidRow(
                     sidebarPanel(
-                      h2('Change by cluster'),
-                      h4('blah blah'),
+                      h2('Mastery Over Time'),
+                      h4(em("This graph shows the median percentage of students acheiving Level 3 or Level 4 proficiency on the TNReady ELA or Math assessment in 2017-2018. Median scores are grouped by school level, then again by cluster.")),
+                      h5("Toggle to view scores for different subjects, or to switch to see the change in percent mastery as students progress from elementary school to their zoned middle and high school. Add or remove clusters as desired."),
                       radioButtons("graphType", label = "Graph Type",
-                                   choices = list("Overall Mastery" = 1, "Change in Mastery" = 2), 
+                                   choices = list("Overall Mastery" = 1, "Change in % Mastery Through Pathway" = 2), 
                                    selected = 1),
                       radioButtons("graphSubject", label = "Subject",
                                    choices = list("ELA" = "ELA", "Math" = "Math"), 
@@ -62,13 +63,13 @@ dashboardPage(
               fluidPage(
                 sidebarLayout(
                   sidebarPanel(
-                    fluidRow(h1('test')),
-                    fluidRow(h1('blah blah blah')),
-                    selectInput("pickGrade", label = "Student grade level:", 
+                    fluidRow(h1('Find A School')),
+                    fluidRow(em(h4('Find schools with the highest percent mastery for a specified grade level, subject, and student subgroup.'))),
+                    selectInput("pickGrade", label = "Start by selecting the grade to filter by:", 
                                 choices = grades, 
                                 selected = 'All Grades'),
                    uiOutput("filterSubject"), 
-                    selectInput("pickSubgroup", label = "Primary student subgroup:", 
+                    selectInput("pickSubgroup", label = "Identify the primary student subgroup of interest:", 
                                 choices = subgroups, 
                                 selected = 1),
                     width =6
@@ -83,7 +84,8 @@ dashboardPage(
                 sidebarLayout(
                   fluidRow(
                     sidebarPanel(
-                      h2('Select Two Schools to Compare'),
+                      h2('School Comparison'),
+                      h4('Pick two schools to compare key statistics including subject-level mastery and demographic information.'),
                       selectInput("selectSchool1",
                                   label = "School 1",
                                   choices = schools,
@@ -140,9 +142,10 @@ dashboardPage(
                 sidebarLayout(
                   sidebarPanel(
                     h3('Rachael Abram'),
-                    h4(email <- a("Email", href="mailto:rachaelshore@gmail.com?Subject=SAT%20Testing%20Site%20Analysis%20App", target="_blank")),
+                    h4(email <- a("Email", href="mailto:rachaelshore@gmail.com?Subject=MNPS%20Pathway%20Tool", target="_blank")),
                     h4(linkedin <- a("LinkedIn", href="https://www.linkedin.com/in/rsabram/", target="_blank")),
-                    h4(github <- a("GitHub", href="https://github.com/rsabram", target="_blank")), width = 6
+                    h4(github <- a("GitHub", href="https://github.com/rsabram", target="_blank")),
+                    width = 6
                   ),
                   mainPanel()
                 )
