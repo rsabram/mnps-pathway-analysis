@@ -1,7 +1,7 @@
 dashboardPage(
   skin = 'blue',
   dashboardHeader(
-    title = "MNPS Pathway Analysis"),
+    title = "MNPS Parent Tool"),
   dashboardSidebar(
     sidebarMenu(
       #menuItem('Overview',tabName = "overview",icon = icon('bookmark')),
@@ -34,7 +34,7 @@ dashboardPage(
                   fluidRow(
                     sidebarPanel(
                       h2('Mastery Over Time'),
-                      h4(em("This graph shows the median percentage of students acheiving Level 3 or Level 4 proficiency on the TNReady ELA or Math assessment in 2017-2018. Median scores are grouped by school level, then again by cluster.")),
+                      h4(em("This graph shows the median percentage of students achieving Level 3 or Level 4 proficiency on the TNReady ELA or Math assessment in 2017-2018. Median scores are grouped by school level, then again by cluster.")),
                       h5("Toggle to view scores for different subjects, or to switch to see the change in percent mastery as students progress from elementary school to their zoned middle and high school. Add or remove clusters as desired."),
                       radioButtons("graphType", label = "Graph Type",
                                    choices = list("Overall Mastery" = 1, "Change in % Mastery Through Pathway" = 2), 
