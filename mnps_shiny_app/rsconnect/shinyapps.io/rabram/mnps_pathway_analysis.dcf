@@ -1,0 +1,12 @@
+name: mnps_pathway_analysis
+title: mnps_pathway_analysis
+username:
+account: rabram
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 918393
+bundleId: 2074014
+url: https://rabram.shinyapps.io/mnps_pathway_analysis/
+when: 1557455079.37698
+asMultiple: FALSE
+asStatic: FALSE
