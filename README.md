@@ -9,11 +9,10 @@ As the Dean of Community Life at Nashville Prep, I've spent the last two years w
 ![tweet2.png](https://images.zenhubusercontent.com/5cdb5abcd74bd07972d55a30/72f64065-ae91-4dba-bb4c-ba4f59915233)
 ![closed_school.png](https://images.zenhubusercontent.com/5cdb5abcd74bd07972d55a30/0a3b5cc3-5ee4-431c-973b-da8c638b4ab6)![sick_out.png](https://images.zenhubusercontent.com/5cdb5abcd74bd07972d55a30/68554dc3-8cdf-4975-9baa-8962070cc6ee)
 
-### While this is all news-worthy information, none of it discusses academic performance or provides helpful insights for families to consider when choosing schools. 
+### While this is all news-worthy information, none of it discusses academic performance or provides helpful insights for families to consider when choosing schools. And when there is finally some news about academics within MNPS, it's about how the state tests have been suspended, failed, or finally succeeded. 
+
 ![suspend_tnready.png](https://images.zenhubusercontent.com/5cdb5abcd74bd07972d55a30/3bf21891-8dfa-4a9e-bf80-456cd8fe9710)
 ![include_tnready.png](https://images.zenhubusercontent.com/5cdb5abcd74bd07972d55a30/85087c52-e276-4ba6-b757-ec52ebb908b0)
-
-### When there is finally some news about academics within MNPS, it's about how the state tests have been suspended, failed, or finally succeeded.
 
 ### This is lack of information is challenging for families because MNPS offers over 100 options for families when choosing a school. Instead of the traditional "zoned pathway," families can enroll in an optional school at any point in their student's academic career. Below are two example clusters that show the traditional pathway as well as all of the optional schools in the cluster.
 
