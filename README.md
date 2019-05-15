@@ -1,7 +1,7 @@
 # MNPS Pathways: A Parent Tool
 
 ## Motivation
-As the Dean of Community Life at Nashville Prep, I've spent the last two years working to ensure our school is fully enrolled with 5th through 8th grade students. I've made thousands of phone calls and talked to hundreds of students and parents in an attempt to develop a deeper understanding of what drives a parent to enroll or unenroll their child from a school. While there are many factors, I found that indvidiual academic performance is the core of the parent's school choice. Will my student be successful academically at your school? Will they excel in their classes? Will they be on track to be competetive for college applications?
+As the Dean of Community Life at Nashville Prep, I've spent the last two years working to ensure our school is fully enrolled with 5th through 8th grade students. I've made thousands of phone calls and talked to hundreds of students and parents in an attempt to develop a deeper understanding of what drives a parent to enroll or unenroll their child from a school. While there are many factors, I found that individual academic performance is the core of the parent's school choice. Will my student be successful academically at your school? Will they excel in their classes? Will they be on track to be competitive for college applications?
 
 ## So - what do parents see when it comes to schools within Metro Nashville Public Schools (MNPS)? 
 
@@ -21,12 +21,12 @@ As the Dean of Community Life at Nashville Prep, I've spent the last two years w
 
 ### With the dramatic rate of change in Nashville and within MNPS, parents have to constantly research and re-research schools in order to determine the best fit for their student. However, these tools are limited in their helpfulness.
 
-## Pre-Exisitng Parent Tools
+## Pre-Existing Parent Tools
 1. <a href="https://k-12.education.tn.gov/sde/"> TN School Directory </a> - This site provides names, addresses, and contact information for a school, but little else.
 2. <a href="https://schoolmatch.mnps.org/"> SchoolMatch </a> - This tool provided by MNPS is useful for searching for specific programs such as International Baccalaureate or before/after care, again, there's no academic information about schools. 
 3. <a href="https://www.niche.com/k12/d/metro-nashville-public-schools-tn/#schools"> Niche </a> - This site seeks to provide a more holistic school ranking and analysis, but websites like Niche are often questioned for their accuracy and bias.
 
 ## MNPS Pathways: A Parent Tool
-The Tennessee Department of Education does have an abudance of valuable academic data available to the public (<a href="https://www.tn.gov/education/data/data-downloads.html">here</a>), but it's not formatted in a manner that is easily accessible or understood by the average MNPS parent. I built a Shiny App in R that allows parents to explore, search, and compare schools within MNPS and features each school's academic performance on the 2017-2018 TNReady Tennessee Comprehensive Assessment Program. 
+The Tennessee Department of Education does have an abundance of valuable academic data available to the public (<a href="https://www.tn.gov/education/data/data-downloads.html">here</a>), but it's not formatted in a manner that is easily accessible or understood by the average MNPS parent. I built a Shiny App in R that allows parents to explore, search, and compare schools within MNPS and features each school's academic performance on the 2017-2018 TNReady Tennessee Comprehensive Assessment Program. 
 
 ## <a href="https://rabram.shinyapps.io/mnps_pathway_analysis/"> Explore the app here! </a>
